@@ -1,0 +1,2290 @@
+123.21.161.78|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.178.21.54|root|admin|Vietnam(VN)|Hanoi|
+123.16.66.210|root|admin|Vietnam(VN)|Hai Phong|
+123.21.192.226|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.5.112.159|root|admin|Vietnam(VN)|Hanoi|
+14.161.24.212|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.177.7.6|root|admin|Vietnam(VN)|Hanoi|
+123.16.249.97|root|admin|Vietnam(VN)|Hanoi|
+123.16.115.177|root|admin|Vietnam(VN)|Hanoi|
+123.21.228.83|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.166.182|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.172.96.136|root|admin|Vietnam(VN)|Kien Giang|
+113.161.180.59|system|OkwKcECs8qJP2Z|Vietnam(VN)|Tây Ninh|
+116.107.8.131|root|admin|Vietnam(VN)|Hanoi|
+123.21.111.210|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.71.4|root|admin|Vietnam(VN)|Hanoi|
+117.5.50.154|root|admin|Vietnam(VN)|Hanoi|
+123.20.153.135|ubnt|ubnt|Vietnam(VN)|Ho Chi Minh City|
+113.172.196.135|ubnt|ubnt|Vietnam(VN)|Hanoi|
+123.21.90.230|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.185.217|admin|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.203.77|root|admin|Vietnam(VN)|Hanoi|
+113.172.119.101|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.21.183.2|root|admin|Vietnam(VN)|Da Lat|
+113.184.118.186|root|admin|Vietnam(VN)|Binh Phuoc|
+117.1.234.146|root|admin|Vietnam(VN)|Hai Phong|
+123.20.44.141|root|admin|Vietnam(VN)|Ho Chi Minh City|
+118.69.78.147|admin|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.80.58|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.141.172|root|admin|Vietnam(VN)|Hanoi|
+14.169.137.171|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.157.56|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+116.118.8.236|root|abc123|Vietnam(VN)|Nguyên|
+116.107.90.48|admin|1234|Vietnam(VN)|Hanoi|
+113.173.236.6|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.164.16.173|admin|1234|Vietnam(VN)|Hanoi|
+14.162.119.25|root|admin|Vietnam(VN)|Hanoi|
+117.1.254.231|root|admin|Vietnam(VN)|Hanoi|
+14.166.132.125|admin|1234|Vietnam(VN)|Hanoi|
+14.169.130.56|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.24.187.91|root|admin|Vietnam(VN)|Nam Dinh|
+113.178.36.164|root|admin|Vietnam(VN)|Hanoi|
+123.16.32.109|root|admin|Vietnam(VN)|Hanoi|
+14.171.164.142|admin|1234|Vietnam(VN)|Hanoi|
+116.107.61.245|root|admin|Vietnam(VN)|Phu Ly|
+14.173.124.239|operator|operator|Vietnam(VN)|Hanoi|
+113.178.38.23|root|admin|Vietnam(VN)|Hanoi|
+123.21.123.80|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.221.18|root|admin|Vietnam(VN)|Thái Bình|
+123.21.127.70|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.65.142|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.160.81|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.238.231|ftp|ftp|Vietnam(VN)|Ho Chi Minh City|
+14.161.25.161|system|OkwKcECs8qJP2Z|Vietnam(VN)|Ho Chi Minh City|
+203.205.52.177|system|OkwKcECs8qJP2Z|Vietnam(VN)|Da Nang|
+116.107.0.111|root|admin|Vietnam(VN)|Hanoi|
+113.178.60.154|root|admin|Vietnam(VN)|Hanoi|
+123.16.63.29|admin|1234|Vietnam(VN)|Hanoi|
+123.20.59.32|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+117.7.196.84|admin|0l0ctyQh243O63uD|Vietnam(VN)|Hanoi|
+14.169.135.29|root|admin|Vietnam(VN)|Ho Chi Minh City|
+116.107.27.87|root|admin|Vietnam(VN)|Thái Bình|
+14.162.171.105|root|root|Vietnam(VN)|Hanoi|
+171.224.52.247|root|admin|Vietnam(VN)|Hanoi|
+117.5.240.144|root|admin|Vietnam(VN)|Hanoi|
+123.25.21.68|root|admin|Vietnam(VN)|Hanoi|
+171.224.30.125|root|admin|Vietnam(VN)|Hanoi|
+171.224.110.143|root|admin|Vietnam(VN)|Hanoi|
+123.24.48.163|root|admin|Vietnam(VN)|Hanoi|
+14.173.228.21|admin|1234|Vietnam(VN)|Hanoi|
+123.20.166.245|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.245.31|ftp|ftp|Vietnam(VN)|Hanoi|
+123.20.166.158|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.135.76|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.28.205.47|system|OkwKcECs8qJP2Z|Vietnam(VN)|Hanoi|
+117.5.246.201|root|admin|Vietnam(VN)|Hanoi|
+113.190.110.255|root|admin|Vietnam(VN)|Hanoi|
+14.161.23.98|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.129.121|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.24.55.220|admin|admin|Vietnam(VN)|Hanoi|
+171.224.142.5|root|admin|Vietnam(VN)|Hanoi|
+123.21.197.248|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.24.188.244|root|admin|Vietnam(VN)|Nam Dinh|
+123.21.206.46|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.163.93.180|root|admin|Vietnam(VN)|Hai Phong|
+113.172.204.103|root|admin|Vietnam(VN)|Hanoi|
+123.16.253.206|support|support|Vietnam(VN)|Hanoi|
+14.183.21.193|root|admin|Vietnam(VN)|Hanoi|
+123.21.69.199|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.170.28|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+113.172.254.106|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.133.162|root|admin|Vietnam(VN)|Hanoi|
+123.20.99.43|user1|user1|Vietnam(VN)|Ho Chi Minh City|
+117.1.183.41|root|admin|Vietnam(VN)|Hanoi|
+117.1.58.121|root|admin|Vietnam(VN)|Hanoi|
+113.172.153.101|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.1.211.161|root|admin|Vietnam(VN)|Hanoi|
+123.20.48.111|root|admin|Vietnam(VN)|Ho Chi Minh City|
+171.224.114.102|ftp|ftp|Vietnam(VN)|Hanoi|
+123.18.22.4|root|admin|Vietnam(VN)|Quang Xuong|
+123.21.149.192|root|admin|Vietnam(VN)|Ho Chi Minh City|
+42.116.80.28|root|admin|Vietnam(VN)|Hanoi|
+113.172.179.230|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.173.2.79|root|admin|Vietnam(VN)|Ho Chi Minh City|
+171.224.198.194|admin|1234|Vietnam(VN)|Bac Giang|
+118.69.65.195|admin|admin|Vietnam(VN)|Ho Chi Minh City|
+116.107.52.34|admin|admin|Vietnam(VN)|Phu Ly|
+113.172.189.106|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.5.236.10|root|admin|Vietnam(VN)|Hanoi|
+123.20.42.229|ftp|ftp|Vietnam(VN)|Ho Chi Minh City|
+123.24.163.82|root|admin|Vietnam(VN)|Hanoi|
+117.5.249.121|root|admin|Vietnam(VN)|Hanoi|
+113.190.175.2|root|admin|Vietnam(VN)|Hanoi|
+113.190.116.171|root|admin|Vietnam(VN)|Hanoi|
+123.20.169.111|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+171.224.33.67|root|admin|Vietnam(VN)|Hanoi|
+123.21.249.156|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.21.74.161|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.204.32|root|admin|Vietnam(VN)|Hanoi|
+123.16.111.128|root|admin|Vietnam(VN)|Hanoi|
+117.1.39.156|root|admin|Vietnam(VN)|Hanoi|
+113.173.238.224|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.144.89|root|admin|Vietnam(VN)|Hanoi|
+171.224.147.52|root|admin|Vietnam(VN)|Hanoi|
+1.53.3.56|admin|admin|Vietnam(VN)|Ho Chi Minh City|
+14.177.62.123|root|admin|Vietnam(VN)|Hanoi|
+123.20.122.75|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.171.252.171|admin|admin@123|Vietnam(VN)|Hanoi|
+14.162.147.44|root|admin|Vietnam(VN)|Hanoi|
+123.21.97.118|user1|user1|Vietnam(VN)|Ho Chi Minh City|
+123.20.178.185|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.1.231.128|root|admin|Vietnam(VN)|Hai Phong|
+14.169.168.112|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.146.221|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.16.249.51|root|admin|Vietnam(VN)|Hanoi|
+123.20.152.229|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.75.120|root|admin|Vietnam(VN)|Hanoi|
+14.162.147.123|admin|1234|Vietnam(VN)|Hanoi|
+14.173.230.161|admin|1234|Vietnam(VN)|Hanoi|
+113.190.159.215|root|admin|Vietnam(VN)|Hanoi|
+117.5.127.79|root|admin|Vietnam(VN)|Hanoi|
+113.184.184.159|root|admin|Vietnam(VN)|Vinh|
+116.107.27.64|root|admin|Vietnam(VN)|Thái Bình|
+123.21.92.44|ubnt|ubnt|Vietnam(VN)|Ho Chi Minh City|
+14.169.192.3|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.174.87|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.161.130.112|admin|123456|Vietnam(VN)|Vung Tau|
+123.20.33.8|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.202.244|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.161.193.187|admin|admin|Vietnam(VN)|Bac Lieu|
+123.21.244.22|support|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.103.113|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.102.35|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.83.16|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.136.1|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.110.185|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.138.31|root|admin|Vietnam(VN)|Hanoi|
+123.25.15.3|root|admin|Vietnam(VN)|Hanoi|
+116.107.64.69|root|admin|Vietnam(VN)|Hanoi|
+123.20.98.193|root|admin|Vietnam(VN)|Ho Chi Minh City|
+171.224.109.8|root|admin|Vietnam(VN)|Hanoi|
+117.6.236.216|system|OkwKcECs8qJP2Z|Vietnam(VN)|Hanoi|
+14.177.252.149|root|admin|Vietnam(VN)|Hanoi|
+113.183.161.239|root|admin|Vietnam(VN)|Da Lat|
+117.1.150.3|root|admin|Vietnam(VN)|Hai Duong|
+113.178.79.153|root|admin|Vietnam(VN)|Hanoi|
+113.184.185.111|root|admin|Vietnam(VN)|Vinh|
+123.21.136.30|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+113.172.200.100|root|admin|Vietnam(VN)|Hanoi|
+113.190.126.45|root|admin|Vietnam(VN)|Hanoi|
+123.16.95.254|admin|1234|Vietnam(VN)|Hanoi|
+14.168.38.39|root|admin|Vietnam(VN)|Hanoi|
+117.0.49.218|root|admin|Vietnam(VN)|Hanoi|
+14.161.22.102|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.169.103|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.5.144.224|root|admin|Vietnam(VN)|Hanoi|
+123.24.173.209|root|admin|Vietnam(VN)|Hanoi|
+14.169.175.45|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.24.110.183|root|admin|Vietnam(VN)|Hanoi|
+113.190.138.89|operator|operator|Vietnam(VN)|Hanoi|
+14.162.150.46|root|admin|Vietnam(VN)|Hanoi|
+113.172.179.168|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.177.116.168|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.137.109|root|admin|Vietnam(VN)|Hanoi|
+123.20.92.31|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.190.193|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.24.76.201|root|admin|Vietnam(VN)|Hanoi|
+116.107.1.7|root|admin|Vietnam(VN)|Hanoi|
+14.161.22.50|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.20.187.237|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.133.131|root|admin|Vietnam(VN)|Hanoi|
+123.25.238.180|operator|operator|Vietnam(VN)|Hanoi|
+113.172.205.185|root|admin|Vietnam(VN)|Hanoi|
+14.168.83.104|root|admin|Vietnam(VN)|Hanoi|
+123.18.22.108|root|admin|Vietnam(VN)|Quang Xuong|
+113.178.40.215|root|admin|Vietnam(VN)|Hanoi|
+171.244.81.147|admin|vertex25|Vietnam(VN)|Hanoi|
+113.190.134.91|admin|1234|Vietnam(VN)|Hanoi|
+123.16.71.36|root|admin|Vietnam(VN)|Hanoi|
+117.1.165.33|root|admin|Vietnam(VN)|Hanoi|
+171.224.247.196|root|admin|Vietnam(VN)|Hanoi|
+14.161.41.60|admin|0l0ctyQh243O63uD|Vietnam(VN)|Ho Chi Minh City|
+123.20.28.100|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.46.68|root|admin|Vietnam(VN)|Ho Chi Minh City|
+171.224.119.142|root|admin|Vietnam(VN)|Hanoi|
+123.20.21.220|root|admin|Vietnam(VN)|Ho Chi Minh City|
+171.224.110.125|root|admin|Vietnam(VN)|Hanoi|
+171.224.40.67|root|admin|Vietnam(VN)|Hanoi|
+171.224.72.211|root|admin|Vietnam(VN)|Hanoi|
+14.175.60.201|root|admin|Vietnam(VN)|Hanoi|
+113.190.254.74|operator|operator|Vietnam(VN)|Hanoi|
+113.161.12.41|admin|admin123|Vietnam(VN)|Hue|
+116.118.5.54|admin|admin|Vietnam(VN)|Nguyên|
+113.172.187.64|root|admin|Vietnam(VN)|Ho Chi Minh City|
+116.107.66.169|root|admin|Vietnam(VN)|Hanoi|
+14.177.252.247|root|admin|Vietnam(VN)|Hanoi|
+14.162.196.58|root|admin|Vietnam(VN)|Hanoi|
+123.21.93.106|support|support|Vietnam(VN)|Ho Chi Minh City|
+14.161.8.220|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.178.41.50|root|admin|Vietnam(VN)|Hanoi|
+123.20.160.107|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.21.198|system|OkwKcECs8qJP2Z|Vietnam(VN)|Hanoi|
+27.72.42.251|root|admin|Vietnam(VN)|Ha Nam|
+118.69.209.84|root|admin|Vietnam(VN)|Hanoi|
+117.5.135.237|root|admin|Vietnam(VN)|Hanoi|
+113.178.51.83|admin|1234|Vietnam(VN)|Hanoi|
+117.5.176.174|root|admin|Vietnam(VN)|Hanoi|
+123.20.124.245|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.170.208|root|admin|Vietnam(VN)|Hanoi|
+123.24.65.62|admin|default|Vietnam(VN)|Hanoi|
+117.0.154.147|root|admin|Vietnam(VN)|Hanoi|
+123.16.245.1|root|admin|Vietnam(VN)|Hanoi|
+113.172.130.140|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.254.236|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.24.176.132|admin|admin|Vietnam(VN)|Hanoi|
+123.21.225.2|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.5.33.214|root|admin|Vietnam(VN)|Hanoi|
+123.16.149.144|root|admin|Vietnam(VN)|Hanoi|
+123.21.103.41|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.24.119.161|support|support|Vietnam(VN)|Hanoi|
+14.169.141.196|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.161.19.151|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.156.67|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.110.153|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.132.9|root|admin|Vietnam(VN)|Hanoi|
+14.169.142.19|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.163.8|root|admin|Vietnam(VN)|Ho Chi Minh City|
+27.72.33.168|root|admin|Vietnam(VN)|Hanoi|
+14.160.52.74|root|admin|Vietnam(VN)|Hanoi|
+113.178.40.62|root|admin|Vietnam(VN)|Hanoi|
+123.21.193.252|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.174.48.48|root|admin|Vietnam(VN)|Biên Hòa|
+14.161.31.13|root|admin|Vietnam(VN)|Ho Chi Minh City|
+116.107.59.154|operator|operator|Vietnam(VN)|Ha Nam|
+27.72.17.229|root|admin|Vietnam(VN)|Hanoi|
+123.21.76.89|root|admin|Vietnam(VN)|Ho Chi Minh City|
+171.224.146.231|root|admin|Vietnam(VN)|Hanoi|
+113.172.169.103|root|admin|Vietnam(VN)|Ho Chi Minh City|
+118.69.226.55|root|admin|Vietnam(VN)|Ho Chi Minh City|
+116.107.1.18|root|admin|Vietnam(VN)|Hanoi|
+123.22.93.19|operator|operator|Vietnam(VN)|Hanoi|
+113.190.152.175|root|admin|Vietnam(VN)|Hanoi|
+123.24.178.253|support|support|Vietnam(VN)|Hanoi|
+123.21.147.70|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.175.197|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.194.127|support|support|Vietnam(VN)|Hanoi|
+117.5.147.37|root|admin|Vietnam(VN)|Hanoi|
+123.20.168.179|root|admin|Vietnam(VN)|Ho Chi Minh City|
+1.53.65.75|admin|password|Vietnam(VN)|Hanoi|
+123.23.34.249|ftp|ftp|Vietnam(VN)|Phuoc Dong|
+117.5.148.97|admin|1234|Vietnam(VN)|Hanoi|
+14.175.69.251|root|admin|Vietnam(VN)|Hanoi|
+123.25.36.82|root|admin|Vietnam(VN)|Hanoi|
+14.161.10.28|ftp|ftp|Vietnam(VN)|Ho Chi Minh City|
+123.21.86.131|root|admin|Vietnam(VN)|Ho Chi Minh City|
+116.107.203.37|root|admin|Vietnam(VN)|Thái Nguyên|
+117.5.102.242|root|admin|Vietnam(VN)|Hanoi|
+14.169.148.112|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.25.21.85|root|admin|Vietnam(VN)|Hanoi|
+14.169.178.23|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.89.18|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.38.239|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.157.203|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.173.229.160|root|admin|Vietnam(VN)|Hanoi|
+14.169.139.45|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+113.173.229.57|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.92.26|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.233.228|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.253.184|operator|operator|Vietnam(VN)|Hanoi|
+113.172.122.253|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.24.205.219|root|admin|Vietnam(VN)|Hanoi|
+123.16.243.127|admin|default|Vietnam(VN)|Hanoi|
+123.20.56.130|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.21.155|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.248.230|root|admin|Vietnam(VN)|Hanoi|
+123.24.180.203|root|admin|Vietnam(VN)|Hanoi|
+113.173.1.87|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.189.4|root|root|Vietnam(VN)|Ho Chi Minh City|
+123.24.178.155|root|admin|Vietnam(VN)|Hanoi|
+113.20.118.165|nagios|nagios|Vietnam(VN)|Hanoi|
+14.177.69.104|root|admin|Vietnam(VN)|Hanoi|
+123.21.110.9|root|admin|Vietnam(VN)|Ho Chi Minh City|
+115.79.209.190|system|OkwKcECs8qJP2Z|Vietnam(VN)|Ho Chi Minh City|
+14.177.64.185|admin|admin123|Vietnam(VN)|Hanoi|
+171.224.115.239|root|admin|Vietnam(VN)|Hanoi|
+14.169.146.115|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.25.30.201|root|admin|Vietnam(VN)|Hanoi|
+14.169.172.99|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.228.106|root|admin|Vietnam(VN)|Hanoi|
+113.172.194.251|root|admin|Vietnam(VN)|Hanoi|
+113.190.214.62|root|admin|Vietnam(VN)|Hanoi|
+123.21.137.225|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.103.112|ftp|ftp|Vietnam(VN)|Ho Chi Minh City|
+14.169.169.36|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.191.217|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.170.95|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.51.13|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.54.251|root|admin|Vietnam(VN)|Hanoi|
+123.22.198.6|root|admin|Vietnam(VN)|Hanoi|
+171.224.229.43|admin|1234|Vietnam(VN)|Nam Dinh|
+113.173.229.221|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.209.42|root|root|Vietnam(VN)|Hanoi|
+123.24.181.35|root|admin|Vietnam(VN)|Hanoi|
+123.20.54.181|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.147.49|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.15.56|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.23.50.201|root|admin|Vietnam(VN)|Phuoc Dong|
+113.172.193.0|root|admin|Vietnam(VN)|Hanoi|
+113.182.17.60|ubnt|ubnt|Vietnam(VN)|Hanoi|
+117.5.51.66|root|admin|Vietnam(VN)|Hanoi|
+123.21.205.90|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+113.172.162.54|admin|password|Vietnam(VN)|Ho Chi Minh City|
+123.21.72.39|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.133.51|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.47.182|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.27.175.118|root|admin|Vietnam(VN)|Tien Lu|
+14.169.182.81|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.21.88.54|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.255.234|admin|1234|Vietnam(VN)|Hanoi|
+123.21.145.101|root|admin|Vietnam(VN)|Ho Chi Minh City|
+115.73.216.172|admin|0l0ctyQh243O63uD|Vietnam(VN)|Ho Chi Minh City|
+113.160.3.210|root|admin|Vietnam(VN)|Hanoi|
+123.20.48.100|ftp|ftp|Vietnam(VN)|Ho Chi Minh City|
+113.182.227.228|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.146.240|root|admin|Vietnam(VN)|Ho Chi Minh City|
+116.107.67.23|admin|admin|Vietnam(VN)|Hanoi|
+14.162.145.203|root|admin|Vietnam(VN)|Hanoi|
+113.173.232.33|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.84.141|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.25.236.99|support|support|Vietnam(VN)|Hanoi|
+113.172.174.56|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.21.117.252|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.24.177.166|root|admin|Vietnam(VN)|Hanoi|
+113.172.126.8|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.24.206.82|root|admin|Vietnam(VN)|Hanoi|
+113.172.150.179|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.20.32|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.5.251.145|root|admin|Vietnam(VN)|Hanoi|
+171.224.136.53|root|admin|Vietnam(VN)|Hanoi|
+123.21.106.227|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.248.231|root|admin|Vietnam(VN)|Hanoi|
+123.24.205.159|admin|admin01|Vietnam(VN)|Hanoi|
+113.173.4.236|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.107.169|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.24.109.252|root|admin|Vietnam(VN)|Hanoi|
+123.21.202.156|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.97.250|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.106.52|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.253.217|admin|admin|Vietnam(VN)|Hanoi|
+123.20.122.186|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.253.33|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.21.103.165|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.156.197|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.125.255|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.146.29|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.221.73|root|admin|Vietnam(VN)|Hanoi|
+123.20.3.43|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.168.41|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.161.139.6|root|admin|Vietnam(VN)|Hanoi|
+113.178.74.4|root|admin|Vietnam(VN)|Hanoi|
+14.162.120.190|root|admin|Vietnam(VN)|Hanoi|
+113.190.181.29|root|admin|Vietnam(VN)|Hanoi|
+103.216.112.204|demo|123456|Vietnam(VN)|Hanoi|
+14.161.22.104|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.233.42|ubnt|ubnt|Vietnam(VN)|Hanoi|
+14.169.189.245|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.177.121.143|nagios|nagios|Vietnam(VN)|Ho Chi Minh City|
+14.169.189.161|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.196.39|root|admin|Vietnam(VN)|Hanoi|
+123.20.28.200|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.247.34.101|admin|1234|Vietnam(VN)|Hanoi|
+113.167.43.35|root|admin|Vietnam(VN)|Hanoi|
+113.190.92.8|root|admin|Vietnam(VN)|Hanoi|
+14.169.161.108|support|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.237.186|root|admin|Vietnam(VN)|Hanoi|
+117.1.105.35|admin|1234|Vietnam(VN)|Hanoi|
+117.1.240.49|root|admin|Vietnam(VN)|Hanoi|
+123.20.49.241|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.174.147|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.246.79|root|admin|Vietnam(VN)|Ho Chi Minh City|
+118.69.9.76|root|admin|Vietnam(VN)|Da Nang|
+123.21.155.195|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.72.101|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.97.180|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.177.255.181|root|admin|Vietnam(VN)|Hanoi|
+113.172.155.144|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.161.18.228|root|admin|Vietnam(VN)|Ho Chi Minh City|
+171.224.111.121|root|admin|Vietnam(VN)|Hanoi|
+14.169.102.232|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.83.191|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.30.76|admin|1234|Vietnam(VN)|Ung Hoa|
+171.224.36.129|admin|1234|Vietnam(VN)|Hanoi|
+117.5.39.35|root|admin|Vietnam(VN)|Hanoi|
+123.16.65.14|support|support|Vietnam(VN)|Hai Phong|
+113.177.120.19|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.234.150|admin|default|Vietnam(VN)|Hanoi|
+113.172.147.226|ftp|ftp|Vietnam(VN)|Ho Chi Minh City|
+123.21.204.248|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.159.204|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+14.173.199.189|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.160.60|root|admin|Vietnam(VN)|Hanoi|
+113.172.156.201|admin|default|Vietnam(VN)|Ho Chi Minh City|
+171.224.57.209|root|admin|Vietnam(VN)|Hanoi|
+123.21.101.13|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.128.69|root|admin|Vietnam(VN)|Ho Chi Minh City|
+116.107.38.242|admin|default|Vietnam(VN)|Hanoi|
+14.169.161.144|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.24.176.32|admin|1234|Vietnam(VN)|Hanoi|
+14.161.20.194|admin|admin123|Vietnam(VN)|Ho Chi Minh City|
+113.172.119.35|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.16.142.254|root|admin|Vietnam(VN)|Nam Dinh|
+14.162.175.170|operator|operator|Vietnam(VN)|Hanoi|
+123.20.185.167|root|admin|Vietnam(VN)|Ho Chi Minh City|
+116.118.10.36|root|admin|Vietnam(VN)|Nguyên|
+14.177.12.129|root|admin|Vietnam(VN)|Hanoi|
+113.172.125.155|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.161.48.85|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.153.1|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.208.114|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.66.184|admin|1234|Vietnam(VN)|Hai Phong|
+123.20.30.241|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.83.46|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.32.191|admin|admin|Vietnam(VN)|Hanoi|
+123.21.255.203|ftp|ftp|Vietnam(VN)|Ho Chi Minh City|
+14.162.191.131|root|admin|Vietnam(VN)|Hanoi|
+115.75.162.123|admin|0l0ctyQh243O63uD|Vietnam(VN)|Hanoi|
+123.21.71.64|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.171.34|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.224.58|admin|1234|Vietnam(VN)|Hanoi|
+14.169.136.207|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.78.84|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.245.220|ftp|ftp|Vietnam(VN)|Hanoi|
+113.172.148.96|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+113.172.130.241|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.192.221|root|admin|Vietnam(VN)|Hanoi|
+117.5.149.185|ftp|ftp|Vietnam(VN)|Hanoi|
+171.224.176.102|root|admin|Vietnam(VN)|Hanoi|
+14.169.146.238|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.27.182.215|root|admin|Vietnam(VN)|Tien Lu|
+116.107.35.41|ftp|ftp|Vietnam(VN)|Hanoi|
+117.0.152.88|admin|vertex25|Vietnam(VN)|Hanoi|
+113.172.224.117|demo|123456|Vietnam(VN)|Ho Chi Minh City|
+14.169.143.56|ftp|ftp|Vietnam(VN)|Ho Chi Minh City|
+123.21.96.19|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.177.100|root|admin|Vietnam(VN)|Da Lat|
+123.16.71.31|root|abc123|Vietnam(VN)|Hanoi|
+123.20.8.216|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.166.243|admin|1234|Vietnam(VN)|Quang Binh|
+117.5.150.27|root|admin|Vietnam(VN)|Hanoi|
+123.21.112.2|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.24.139.122|ftp|ftp|Vietnam(VN)|Hanoi|
+14.169.146.99|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.204.197|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.5.72.28|root|admin|Vietnam(VN)|Hanoi|
+117.0.177.178|root|admin|Vietnam(VN)|Hanoi|
+123.21.206.19|root|admin|Vietnam(VN)|Ho Chi Minh City|
+171.224.228.124|root|admin|Vietnam(VN)|Nam Dinh|
+123.27.182.28|root|admin|Vietnam(VN)|Tien Lu|
+123.24.98.191|admin|1234|Vietnam(VN)|Hanoi|
+123.24.137.232|root|admin|Vietnam(VN)|Hanoi|
+14.161.37.250|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.173.6.252|ubnt|ubnt|Vietnam(VN)|Ho Chi Minh City|
+14.169.192.15|root|admin|Vietnam(VN)|Ho Chi Minh City|
+27.72.67.81|root|admin|Vietnam(VN)|Thái Nguyên|
+14.177.251.210|root|admin|Vietnam(VN)|Hanoi|
+113.160.145.185|ftp|ftp|Vietnam(VN)|Hanoi|
+123.21.188.193|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+113.172.183.137|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.173.235.137|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.1.181.206|root|admin|Vietnam(VN)|Hanoi|
+27.72.61.14|admin|admin|Vietnam(VN)|Hanoi|
+113.190.103.196|root|admin|Vietnam(VN)|Hanoi|
+113.172.116.16|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+123.24.86.146|admin|admin|Vietnam(VN)|Hanoi|
+14.169.154.15|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.109.218|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.133.88|admin|password|Vietnam(VN)|Hanoi|
+123.20.93.83|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.183.151.67|root|admin|Vietnam(VN)|Hanoi|
+113.184.118.68|root|admin|Vietnam(VN)|Binh Phuoc|
+113.172.226.144|admin|admin|Vietnam(VN)|Ho Chi Minh City|
+117.1.108.16|root|admin|Vietnam(VN)|Hanoi|
+117.5.159.83|root|admin|Vietnam(VN)|Hanoi|
+113.172.178.88|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.154.49|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.27.167|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.71.76|ftp|ftp|Vietnam(VN)|Ho Chi Minh City|
+123.21.172.154|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.64.6|ubnt|ubnt|Vietnam(VN)|Hai Phong|
+14.169.169.42|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.178.33.248|root|admin|Vietnam(VN)|Hanoi|
+117.1.186.250|root|admin|Vietnam(VN)|Hanoi|
+117.1.192.96|root|admin|Vietnam(VN)|Hanoi|
+14.161.44.158|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.131.195|root|admin|Vietnam(VN)|Hanoi|
+123.24.184.146|root|admin|Vietnam(VN)|Nam Dinh|
+123.24.109.105|ftp|ftp|Vietnam(VN)|Hanoi|
+14.162.144.253|root|admin|Vietnam(VN)|Hanoi|
+14.164.75.172|root|admin|Vietnam(VN)|Hanoi|
+123.16.253.234|root|admin|Vietnam(VN)|Hanoi|
+117.1.206.163|root|admin|Vietnam(VN)|Hanoi|
+113.172.204.204|support|support|Vietnam(VN)|Hanoi|
+113.169.10.99|root|admin|Vietnam(VN)|Hanoi|
+113.183.158.109|root|admin|Vietnam(VN)|Hanoi|
+14.161.8.188|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.1.254.67|root|admin|Vietnam(VN)|Hanoi|
+123.20.10.228|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.146.178|root|admin|Vietnam(VN)|Hanoi|
+123.21.198.101|support|support|Vietnam(VN)|Ho Chi Minh City|
+123.20.31.221|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.24.177.203|root|admin|Vietnam(VN)|Hanoi|
+113.190.73.183|root|admin|Vietnam(VN)|Hanoi|
+103.28.38.166|admin|123456789|Vietnam(VN)|Hanoi|
+14.177.255.213|root|admin|Vietnam(VN)|Hanoi|
+117.5.186.135|root|admin|Vietnam(VN)|Hanoi|
+123.20.50.98|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.28.179|root|admin|Vietnam(VN)|Hanoi|
+14.177.64.143|admin|admin|Vietnam(VN)|Hanoi|
+123.20.21.129|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.182.217|root|admin|Vietnam(VN)|Hanoi|
+113.172.109.226|admin|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.22.53|root|admin|Vietnam(VN)|Ho Chi Minh City|
+115.73.213.80|admin|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.19.38|ftp|ftp|Vietnam(VN)|Ho Chi Minh City|
+123.21.83.196|user|1234|Vietnam(VN)|Ho Chi Minh City|
+123.16.68.154|root|admin|Vietnam(VN)|Hanoi|
+117.5.140.203|root|admin|Vietnam(VN)|Hanoi|
+113.173.8.101|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.113.204|root|admin|Vietnam(VN)|Ho Chi Minh City|
+171.224.145.154|admin|1234|Vietnam(VN)|Hanoi|
+123.21.91.21|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.174.62.147|root|admin|Vietnam(VN)|Biên Hòa|
+123.21.79.63|root|admin|Vietnam(VN)|Ho Chi Minh City|
+171.224.112.76|operator|operator|Vietnam(VN)|Hanoi|
+123.21.195.43|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.150.188|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.162.202|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.223.57|root|admin|Vietnam(VN)|Hanoi|
+113.163.17.189|admin|1234|Vietnam(VN)|Hung Yen|
+14.162.139.61|root|admin|Vietnam(VN)|Hanoi|
+123.24.171.183|operator|operator|Vietnam(VN)|Hanoi|
+14.162.222.145|root|admin|Vietnam(VN)|Hanoi|
+171.224.230.244|admin|1234|Vietnam(VN)|Nam Dinh|
+123.16.233.212|root|admin|Vietnam(VN)|Hanoi|
+117.5.250.141|root|admin|Vietnam(VN)|Hanoi|
+113.190.220.242|root|admin|Vietnam(VN)|Thái Bình|
+123.21.116.201|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.71.114|admin|admin01|Vietnam(VN)|Hanoi|
+123.20.63.113|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.161.135|nagios|nagios|Vietnam(VN)|Ho Chi Minh City|
+123.21.197.111|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.177.254.113|root|admin|Vietnam(VN)|Hanoi|
+123.16.32.224|root|admin|Vietnam(VN)|Hanoi|
+117.1.206.134|root|admin|Vietnam(VN)|Hanoi|
+14.162.116.40|root|admin|Vietnam(VN)|Hanoi|
+113.172.253.183|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.176.29|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.245.27|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.110.113|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.100.249|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.161.253.226|root|admin|Vietnam(VN)|Hanoi|
+14.162.192.192|root|admin|Vietnam(VN)|Hanoi|
+14.162.158.253|root|admin|Vietnam(VN)|Hanoi|
+123.20.157.184|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.19.143|root|admin|Vietnam(VN)|Ho Chi Minh City|
+171.224.124.26|root|admin|Vietnam(VN)|Hanoi|
+14.162.161.46|root|admin|Vietnam(VN)|Hanoi|
+113.172.154.240|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.205.102|support|support|Vietnam(VN)|Hanoi|
+14.166.134.47|root|admin|Vietnam(VN)|Hanoi|
+14.181.141.127|root|admin|Vietnam(VN)|Hanoi|
+14.161.42.137|ftp|ftp|Vietnam(VN)|Ho Chi Minh City|
+113.172.131.166|support|support|Vietnam(VN)|Ho Chi Minh City|
+123.20.89.75|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.125.234|root|root|Vietnam(VN)|Ho Chi Minh City|
+14.162.103.69|root|abc123|Vietnam(VN)|Hanoi|
+113.167.173.138|root|admin|Vietnam(VN)|Hanoi|
+14.177.1.55|admin|1234|Vietnam(VN)|Hanoi|
+113.190.253.179|root|admin|Vietnam(VN)|Hanoi|
+14.169.156.201|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.102.105|root|abc123|Vietnam(VN)|Ho Chi Minh City|
+123.21.83.119|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.148.49|ubnt|ubnt|Vietnam(VN)|Ho Chi Minh City|
+14.162.230.76|root|admin|Vietnam(VN)|Hanoi|
+123.21.124.94|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.132.111|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.5.195.13|root|admin|Vietnam(VN)|Hanoi|
+123.21.105.136|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.68.153|root|admin|Vietnam(VN)|Hanoi|
+123.21.65.249|root|admin|Vietnam(VN)|Ho Chi Minh City|
+118.69.61.39|ubnt|ubnt|Vietnam(VN)|Ho Chi Minh City|
+123.20.104.15|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.21.179.62|root|admin|Vietnam(VN)|Da Lat|
+113.190.242.142|admin|admin|Vietnam(VN)|Hanoi|
+123.24.248.31|root|abc123|Vietnam(VN)|Hanoi|
+113.172.192.117|root|admin|Vietnam(VN)|Hanoi|
+117.1.230.165|root|admin|Vietnam(VN)|Hai Phong|
+123.21.73.117|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.161.43.54|root|admin|Vietnam(VN)|Ho Chi Minh City|
+171.224.230.160|ftp|ftp|Vietnam(VN)|Nam Dinh|
+123.24.66.240|support|support|Vietnam(VN)|Hanoi|
+113.173.7.248|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.177.209.69|root|admin|Vietnam(VN)|Hanoi|
+14.161.19.225|admin|admin@123|Vietnam(VN)|Ho Chi Minh City|
+117.1.157.89|root|admin|Vietnam(VN)|Hai Duong|
+117.0.200.51|root|admin|Vietnam(VN)|Hanoi|
+113.172.110.187|support|support|Vietnam(VN)|Ho Chi Minh City|
+117.1.138.180|root|admin|Vietnam(VN)|Thái Nguyên|
+14.181.175.47|root|admin|Vietnam(VN)|Nam Dinh|
+123.21.224.65|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+113.162.228.66|ftp|ftp|Vietnam(VN)|Trà Vinh|
+113.163.72.30|root|admin|Vietnam(VN)|Hanoi|
+14.169.185.8|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.30.52|root|admin|Vietnam(VN)|Hanoi|
+123.20.170.198|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.113.151|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.36.74|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.183.157|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.254.211|support|support|Vietnam(VN)|Hanoi|
+117.5.138.227|root|admin|Vietnam(VN)|Hanoi|
+123.20.126.66|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.205.69|root|admin|Vietnam(VN)|Hanoi|
+123.25.239.160|system|OkwKcECs8qJP2Z|Vietnam(VN)|Hanoi|
+123.21.98.217|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.154.213|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+117.1.196.179|root|admin|Vietnam(VN)|Hanoi|
+116.107.10.139|root|admin|Vietnam(VN)|Hanoi|
+14.177.8.185|admin|admin|Vietnam(VN)|Hanoi|
+113.172.253.242|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.121.168|ftp|ftp|Vietnam(VN)|Ho Chi Minh City|
+113.172.222.9|root|admin|Vietnam(VN)|Hanoi|
+117.1.205.161|root|admin|Vietnam(VN)|Hanoi|
+123.16.227.39|ftp|ftp|Vietnam(VN)|Hanoi|
+123.24.206.28|root|admin|Vietnam(VN)|Hanoi|
+123.20.162.64|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.253.57|ftp|ftp|Vietnam(VN)|Hanoi|
+14.161.21.245|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.163.167|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.72.253|root|admin|Vietnam(VN)|Hanoi|
+14.169.175.5|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.5.124.127|root|admin|Vietnam(VN)|Hanoi|
+118.69.65.172|admin|admin123|Vietnam(VN)|Ho Chi Minh City|
+14.162.29.203|operator|operator|Vietnam(VN)|Hanoi|
+117.5.46.32|root|admin|Vietnam(VN)|Hanoi|
+123.24.180.201|root|admin|Vietnam(VN)|Hanoi|
+117.1.200.191|root|admin|Vietnam(VN)|Hanoi|
+14.161.19.216|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.0.192.96|root|admin|Vietnam(VN)|Hanoi|
+123.21.130.208|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.5.150.76|root|admin|Vietnam(VN)|Hanoi|
+14.162.144.95|root|admin|Vietnam(VN)|Hanoi|
+27.72.30.181|root|admin|Vietnam(VN)|Hanoi|
+14.162.140.240|root|admin|Vietnam(VN)|Hanoi|
+113.178.33.152|root|admin|Vietnam(VN)|Hanoi|
+113.172.158.159|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.254.222|root|admin|Vietnam(VN)|Hanoi|
+123.20.165.77|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.71.207|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.153.57|root|admin|Vietnam(VN)|Ho Chi Minh City|
+42.117.55.21|admin|admin123|Vietnam(VN)|Ho Chi Minh City|
+113.175.58.6|root|admin|Vietnam(VN)|Hanoi|
+117.5.130.60|admin|1234|Vietnam(VN)|Hanoi|
+117.5.142.171|root|admin|Vietnam(VN)|Hanoi|
+113.173.235.61|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.255.19|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.181.232|admin|1234|Vietnam(VN)|Da Lat|
+117.5.132.156|root|admin|Vietnam(VN)|Hanoi|
+123.20.59.86|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.5.158.26|root|admin|Vietnam(VN)|Hanoi|
+14.162.184.74|root|admin|Vietnam(VN)|Hanoi|
+117.1.104.31|admin|password|Vietnam(VN)|Hanoi|
+123.21.165.148|root|admin|Vietnam(VN)|Ho Chi Minh City|
+1.55.241.116|root|admin|Vietnam(VN)|Hanoi|
+113.176.195.184|system|OkwKcECs8qJP2Z|Vietnam(VN)|Da Nang|
+117.5.244.107|admin|vertex25|Vietnam(VN)|Hanoi|
+123.21.199.214|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.175.42|root|admin|Vietnam(VN)|Hanoi|
+14.162.170.32|root|admin|Vietnam(VN)|Hanoi|
+113.172.194.25|root|admin|Vietnam(VN)|Hanoi|
+113.190.154.63|root|admin|Vietnam(VN)|Hanoi|
+123.20.109.186|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+14.169.186.205|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.76.135|root|admin|Vietnam(VN)|Ho Chi Minh City|
+171.224.142.234|root|admin|Vietnam(VN)|Hanoi|
+14.169.151.48|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.184.150.107|root|admin|Vietnam(VN)|Hanoi|
+113.160.149.209|root|admin|Vietnam(VN)|Hanoi|
+123.21.189.169|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.22.2.46|admin|password|Vietnam(VN)|Hanoi|
+117.1.132.204|root|admin|Vietnam(VN)|Thái Nguyên|
+113.190.20.231|root|admin|Vietnam(VN)|Hanoi|
+117.1.195.255|root|admin|Vietnam(VN)|Hanoi|
+123.21.211.206|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+123.20.62.246|guest|guest|Vietnam(VN)|Ho Chi Minh City|
+113.172.193.190|operator|operator|Vietnam(VN)|Hanoi|
+123.21.70.174|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.163.86|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.18.23.76|root|admin|Vietnam(VN)|Quang Xuong|
+14.169.98.160|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.166.200|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.188.38.48|admin|1234|Vietnam(VN)|Hai Duong|
+113.172.201.129|root|admin|Vietnam(VN)|Hanoi|
+14.162.181.239|root|admin|Vietnam(VN)|Hanoi|
+113.172.114.204|support|support|Vietnam(VN)|Ho Chi Minh City|
+123.21.119.134|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.97.74|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.5.164|root|admin|Vietnam(VN)|Hanoi|
+123.20.20.222|admin|admin@123|Vietnam(VN)|Ho Chi Minh City|
+113.172.204.25|ftp|ftp|Vietnam(VN)|Hanoi|
+113.190.129.199|root|admin|Vietnam(VN)|Hanoi|
+14.162.158.40|root|admin|Vietnam(VN)|Hanoi|
+113.172.186.228|ftp|ftp|Vietnam(VN)|Ho Chi Minh City|
+123.20.188.237|admin|admin123|Vietnam(VN)|Ho Chi Minh City|
+113.172.133.141|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.181.203|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.23.28.78|root|admin|Vietnam(VN)|Hanoi|
+123.24.181.47|root|admin|Vietnam(VN)|Hanoi|
+113.178.33.244|root|admin|Vietnam(VN)|Hanoi|
+113.172.153.131|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.168.36.138|ftp|ftp|Vietnam(VN)|Hanoi|
+14.166.186.255|root|admin|Vietnam(VN)|Hanoi|
+118.69.9.143|root|admin|Vietnam(VN)|Da Nang|
+113.190.197.141|root|admin|Vietnam(VN)|Hanoi|
+123.24.73.16|admin|1234|Vietnam(VN)|Hanoi|
+116.107.55.166|root|admin|Vietnam(VN)|Phu Ly|
+113.172.192.66|root|admin|Vietnam(VN)|Hanoi|
+14.162.131.101|admin|1234|Vietnam(VN)|Hanoi|
+123.21.84.37|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.232.54|root|admin|Vietnam(VN)|Hanoi|
+123.16.141.199|root|admin|Vietnam(VN)|Nam Dinh|
+14.169.164.98|root|admin|Vietnam(VN)|Quang Binh|
+113.172.177.44|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.184.80.64|root|admin|Vietnam(VN)|Hanoi|
+123.25.21.10|root|admin|Vietnam(VN)|Hanoi|
+113.172.192.80|root|admin|Vietnam(VN)|Hanoi|
+27.72.16.39|root|admin|Vietnam(VN)|Hanoi|
+14.169.144.211|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+14.162.220.154|root|admin|Vietnam(VN)|Hanoi|
+123.24.88.85|root|admin|Vietnam(VN)|Hanoi|
+117.5.50.156|admin|1234|Vietnam(VN)|Hanoi|
+14.161.45.210|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.173.4.221|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.150.238|root|admin|Vietnam(VN)|Hanoi|
+123.16.229.77|admin|admin|Vietnam(VN)|Hanoi|
+14.176.155.189|root|admin|Vietnam(VN)|Hanoi|
+123.24.173.125|root|admin|Vietnam(VN)|Hanoi|
+222.255.81.174|system|OkwKcECs8qJP2Z|Vietnam(VN)|Hanoi|
+123.21.229.162|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.173.244.26|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.201.70|admin|1234|Vietnam(VN)|Hanoi|
+171.224.78.159|root|admin|Vietnam(VN)|Hanoi|
+113.163.93.105|root|admin|Vietnam(VN)|Hanoi|
+14.177.239.182|admin|admin|Vietnam(VN)|Hanoi|
+113.172.254.147|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.14.129|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.168.253|support|support|Vietnam(VN)|Ho Chi Minh City|
+113.160.145.84|root|admin|Vietnam(VN)|Hanoi|
+14.163.252.40|root|admin|Vietnam(VN)|Hanoi|
+113.190.4.237|root|admin|Vietnam(VN)|Hanoi|
+113.186.40.200|root|admin|Vietnam(VN)|Hanoi|
+42.116.81.20|root|admin|Vietnam(VN)|Hanoi|
+171.224.79.206|root|admin|Vietnam(VN)|Hanoi|
+123.16.249.38|support|support|Vietnam(VN)|Hanoi|
+113.172.129.87|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.231.227|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.1.205.255|root|admin|Vietnam(VN)|Hanoi|
+123.16.95.250|root|admin|Vietnam(VN)|Hanoi|
+14.162.134.217|admin|default|Vietnam(VN)|Hanoi|
+123.20.16.172|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.231.189|ftp|ftp|Vietnam(VN)|Hanoi|
+123.16.19.229|root|admin|Vietnam(VN)|Hanoi|
+123.21.127.245|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.24.83.94|root|admin|Vietnam(VN)|Hanoi|
+14.161.20.205|root|admin|Vietnam(VN)|Ho Chi Minh City|
+171.224.147.20|root|admin|Vietnam(VN)|Hanoi|
+113.172.111.142|support|support|Vietnam(VN)|Ho Chi Minh City|
+113.172.150.44|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.173.236.101|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.183.24.233|root|admin|Vietnam(VN)|Hanoi|
+14.170.112.169|root|admin|Vietnam(VN)|Hanoi|
+123.21.65.79|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+117.5.159.248|root|admin|Vietnam(VN)|Hanoi|
+171.224.205.87|root|admin|Vietnam(VN)|Bac Giang|
+123.21.176.69|operator|operator|Vietnam(VN)|Da Lat|
+203.210.131.30|ftp|ftp|Vietnam(VN)|Hanoi|
+117.1.209.39|root|admin|Vietnam(VN)|Hanoi|
+14.169.138.201|ftp|ftp|Vietnam(VN)|Ho Chi Minh City|
+14.172.65.109|root|admin|Vietnam(VN)|Hanoi|
+113.190.171.120|root|admin|Vietnam(VN)|Hanoi|
+123.16.239.106|root|admin|Vietnam(VN)|Hanoi|
+123.21.79.65|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.181.243.29|root|admin|Vietnam(VN)|Thái Nguyên|
+123.16.243.79|root|admin|Vietnam(VN)|Hanoi|
+118.69.75.164|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.187.40|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.113.230|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.168.165|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.70.19|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.127.95|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.66.64|ftp|ftp|Vietnam(VN)|Hai Phong|
+113.172.147.16|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.26.120|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.124.14|root|root|Vietnam(VN)|Ho Chi Minh City|
+123.20.54.53|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.186.46.252|root|admin|Vietnam(VN)|Hanoi|
+123.20.23.202|operator|operator|Vietnam(VN)|Hanoi|
+123.20.120.221|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.161.47.101|root|admin|Vietnam(VN)|Ho Chi Minh City|
+118.69.64.187|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.226.203|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.7.28|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.21.121.77|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.0.92.221|root|admin|Vietnam(VN)|Hanoi|
+113.184.155.142|root|admin|Vietnam(VN)|Hanoi|
+14.169.167.123|root|admin|Vietnam(VN)|Quang Binh|
+14.177.209.21|root|admin|Vietnam(VN)|Hanoi|
+123.21.210.132|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.119.212|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+117.1.161.51|root|admin|Vietnam(VN)|Hanoi|
+123.21.156.25|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.177.24|operator|operator|Vietnam(VN)|Hanoi|
+113.172.163.116|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.86.244|root|admin|Vietnam(VN)|Ho Chi Minh City|
+118.69.244.31|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.135.209|root|admin|Vietnam(VN)|Hanoi|
+123.21.87.2|admin|admin|Vietnam(VN)|Ho Chi Minh City|
+113.182.16.119|root|admin|Vietnam(VN)|Hanoi|
+123.16.148.85|root|admin|Vietnam(VN)|Hanoi|
+113.172.119.225|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+14.169.181.83|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.177.95.221|root|admin|Vietnam(VN)|Hanoi|
+113.173.232.193|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+27.79.161.8|admin|password|Vietnam(VN)|Hanoi|
+14.161.139.217|admin|1234|Vietnam(VN)|Hanoi|
+113.190.240.207|admin|admin123|Vietnam(VN)|Hanoi|
+123.21.84.153|root|admin|Vietnam(VN)|Ho Chi Minh City|
+116.107.18.30|root|admin|Vietnam(VN)|Yen The|
+14.169.187.173|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.170.58|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.28.22.60|root|admin|Vietnam(VN)|Hanoi|
+14.183.146.113|root|admin|Vietnam(VN)|Hanoi|
+14.177.215.97|root|admin|Vietnam(VN)|Hanoi|
+113.178.72.107|root|admin|Vietnam(VN)|Hanoi|
+123.21.96.235|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.129.31|root|admin|Vietnam(VN)|Hanoi|
+123.20.159.183|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.188.47|root|admin|Vietnam(VN)|Hanoi|
+14.177.213.25|root|admin|Vietnam(VN)|Hanoi|
+123.20.172.7|admin|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.196.104|root|admin|Vietnam(VN)|Hanoi|
+123.20.86.240|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.146.36|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.5.155.146|ftp|ftp|Vietnam(VN)|Hanoi|
+14.169.130.183|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.89.199|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+123.21.151.195|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.182.181.181|root|admin|Vietnam(VN)|Hanoi|
+123.20.184.235|support|support|Vietnam(VN)|Ho Chi Minh City|
+171.224.190.172|root|admin|Vietnam(VN)|Hanoi|
+123.20.154.107|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.161.210.85|operator|operator|Vietnam(VN)|Can Tho|
+113.173.1.89|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.178.78.220|root|admin|Vietnam(VN)|Hanoi|
+113.172.126.178|root|admin|Vietnam(VN)|Ho Chi Minh City|
+118.70.127.145|admin|admin|Vietnam(VN)|Hanoi|
+116.107.198.180|root|admin|Vietnam(VN)|Thái Nguyên|
+14.177.95.219|root|admin|Vietnam(VN)|Hanoi|
+123.21.88.19|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.172.166|root|admin|Vietnam(VN)|Ho Chi Minh City|
+171.224.128.189|root|admin|Vietnam(VN)|Hanoi|
+117.5.227.123|root|admin|Vietnam(VN)|Hanoi|
+113.173.5.118|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.170.95|admin|1234|Vietnam(VN)|Hanoi|
+171.224.246.158|root|admin|Vietnam(VN)|Hanoi|
+123.16.243.27|root|admin|Vietnam(VN)|Hanoi|
+116.107.23.107|root|admin|Vietnam(VN)|Yen The|
+123.21.122.99|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.134.128|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.128.232|root|admin|Vietnam(VN)|Hanoi|
+14.189.209.72|admin|1234|Vietnam(VN)|Thái Nguyên|
+113.172.156.175|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.72.236|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.128.87|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+14.162.219.167|root|admin|Vietnam(VN)|Hanoi|
+14.161.49.97|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.5.131.118|root|admin|Vietnam(VN)|Hanoi|
+123.27.175.173|root|admin|Vietnam(VN)|Tien Lu|
+118.69.77.48|admin|admin@123|Vietnam(VN)|Ho Chi Minh City|
+113.173.237.176|ftp|ftp|Vietnam(VN)|Ho Chi Minh City|
+113.190.5.7|root|admin|Vietnam(VN)|Hanoi|
+123.20.102.136|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.182.226.9|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.173.229.207|ubnt|ubnt|Vietnam(VN)|Ho Chi Minh City|
+123.21.94.126|admin|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.174.142|root|admin|Vietnam(VN)|Ho Chi Minh City|
+27.72.64.227|root|admin|Vietnam(VN)|Thái Nguyên|
+123.16.133.174|root|admin|Vietnam(VN)|Hanoi|
+117.1.162.246|root|admin|Vietnam(VN)|Hanoi|
+113.172.253.239|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.83.134|support|support|Vietnam(VN)|Ho Chi Minh City|
+113.172.117.183|root|admin|Vietnam(VN)|Ho Chi Minh City|
+116.107.74.107|root|admin|Vietnam(VN)|Hanoi|
+14.163.119.173|root|admin|Vietnam(VN)|Hanoi|
+14.162.199.9|admin|1234|Vietnam(VN)|Hanoi|
+123.20.112.155|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.174.60.251|admin|1234|Vietnam(VN)|Biên Hòa|
+117.5.156.196|root|admin|Vietnam(VN)|Hanoi|
+14.162.112.110|root|admin|Vietnam(VN)|Hanoi|
+123.24.185.66|admin|1234|Vietnam(VN)|Nam Dinh|
+171.224.26.155|root|admin|Vietnam(VN)|Hanoi|
+14.169.185.131|root|admin|Vietnam(VN)|Ho Chi Minh City|
+116.107.26.177|root|admin|Vietnam(VN)|Thái Bình|
+123.21.225.110|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.25.30.87|root|admin|Vietnam(VN)|Hanoi|
+113.173.234.105|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.27.174.56|admin|1234|Vietnam(VN)|Tien Lu|
+14.177.221.9|root|admin|Vietnam(VN)|Hanoi|
+123.20.16.189|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.205.182|root|admin|Vietnam(VN)|Hanoi|
+113.172.190.22|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.168.82.249|root|admin|Vietnam(VN)|Hanoi|
+14.169.29.113|admin|password|Vietnam(VN)|Ho Chi Minh City|
+123.20.104.89|root|admin|Vietnam(VN)|Ho Chi Minh City|
+203.205.54.55|system|OkwKcECs8qJP2Z|Vietnam(VN)|Da Nang|
+113.160.145.163|root|admin|Vietnam(VN)|Hanoi|
+123.21.93.0|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.191.252|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.196.83|admin|1234|Vietnam(VN)|Hanoi|
+14.177.14.24|root|admin|Vietnam(VN)|Hanoi|
+123.20.97.87|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.183.41|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.82.65|admin|admin|Vietnam(VN)|Ho Chi Minh City|
+113.174.64.127|root|admin|Vietnam(VN)|Hanoi|
+117.1.195.133|admin|1234|Vietnam(VN)|Hanoi|
+113.178.48.183|root|admin|Vietnam(VN)|Hanoi|
+14.177.37.102|root|admin|Vietnam(VN)|Hanoi|
+123.21.82.224|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.69.3|root|admin|Vietnam(VN)|Hanoi|
+113.172.116.23|admin|admin01|Vietnam(VN)|Ho Chi Minh City|
+171.224.28.83|admin|1234|Vietnam(VN)|Hanoi|
+123.18.160.88|root|admin|Vietnam(VN)|Hanoi|
+123.21.104.59|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+118.69.216.36|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.177.37.11|root|admin|Vietnam(VN)|Hanoi|
+14.162.160.98|root|admin|Vietnam(VN)|Hanoi|
+14.162.34.32|root|admin|Vietnam(VN)|Hanoi|
+14.169.179.28|support|support|Vietnam(VN)|Ho Chi Minh City|
+123.21.152.216|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+14.162.227.54|root|admin|Vietnam(VN)|Hanoi|
+123.16.64.57|admin|admin123|Vietnam(VN)|Hai Phong|
+123.25.21.51|admin|admin|Vietnam(VN)|Hanoi|
+14.169.190.55|support|support|Vietnam(VN)|Ho Chi Minh City|
+171.224.126.133|root|admin|Vietnam(VN)|Hanoi|
+124.158.7.252|user1|123456|Vietnam(VN)|Hanoi|
+123.16.65.163|admin|admin|Vietnam(VN)|Hai Phong|
+14.161.19.194|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.24.176.242|root|admin|Vietnam(VN)|Hanoi|
+117.0.149.68|admin|1234|Vietnam(VN)|Hanoi|
+117.5.146.160|root|admin|Vietnam(VN)|Hanoi|
+171.224.28.186|root|admin|Vietnam(VN)|Hanoi|
+113.160.224.151|admin|admin|Vietnam(VN)|Bac Ninh|
+123.21.88.140|demo|123456|Vietnam(VN)|Ho Chi Minh City|
+113.190.156.227|root|admin|Vietnam(VN)|Hanoi|
+123.21.172.72|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.160.133.240|root|abc123|Vietnam(VN)|Hanoi|
+123.21.123.56|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.1.234.194|root|admin|Vietnam(VN)|Hai Phong|
+14.162.142.216|admin|1234|Vietnam(VN)|Hanoi|
+123.24.179.103|ftp|ftp|Vietnam(VN)|Hanoi|
+14.161.48.14|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.183.36|root|admin|Vietnam(VN)|Hanoi|
+123.20.86.28|root|admin|Vietnam(VN)|Ho Chi Minh City|
+171.224.250.87|root|admin|Vietnam(VN)|Hanoi|
+14.168.38.248|ftp|ftp|Vietnam(VN)|Hanoi|
+14.175.7.163|admin|1234|Vietnam(VN)|Hanoi|
+113.178.33.201|root|admin|Vietnam(VN)|Hanoi|
+14.162.190.200|root|admin|Vietnam(VN)|Hanoi|
+113.178.79.190|root|admin|Vietnam(VN)|Hanoi|
+14.161.139.173|system|OkwKcECs8qJP2Z|Vietnam(VN)|Hanoi|
+113.172.168.254|root|admin|Vietnam(VN)|Ho Chi Minh City|
+27.72.60.113|admin|admin|Vietnam(VN)|Hanoi|
+123.21.108.108|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.248.94|root|admin|Vietnam(VN)|Hanoi|
+14.162.135.104|root|admin|Vietnam(VN)|Hanoi|
+14.161.47.221|admin|admin|Vietnam(VN)|Ho Chi Minh City|
+117.1.207.111|root|admin|Vietnam(VN)|Hanoi|
+14.169.162.241|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.76.222|root|root|Vietnam(VN)|Ho Chi Minh City|
+123.25.21.161|admin|1234|Vietnam(VN)|Hanoi|
+113.190.213.60|root|admin|Vietnam(VN)|Hanoi|
+123.23.189.15|root|admin|Vietnam(VN)|My Tho|
+14.175.98.36|system|OkwKcECs8qJP2Z|Vietnam(VN)|Hanoi|
+113.172.132.178|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.206.39|root|admin|Vietnam(VN)|Hanoi|
+123.24.176.34|root|admin|Vietnam(VN)|Hanoi|
+123.21.222.113|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.162.1.93|ftp|ftp|Vietnam(VN)|Hanoi|
+123.21.187.202|root|admin|Vietnam(VN)|Da Lat|
+123.24.165.215|root|admin|Vietnam(VN)|Hanoi|
+101.99.36.136|system|OkwKcECs8qJP2Z|Vietnam(VN)|Ho Chi Minh City|
+123.21.120.19|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.97.29|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.1.215.90|root|admin|Vietnam(VN)|Hanoi|
+14.162.166.24|root|admin|Vietnam(VN)|Hanoi|
+123.16.133.154|root|admin|Vietnam(VN)|Hanoi|
+123.21.174.195|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.184.30|root|admin|Vietnam(VN)|Da Lat|
+14.162.175.86|root|admin|Vietnam(VN)|Hanoi|
+113.169.62.252|root|admin|Vietnam(VN)|Hanoi|
+14.173.5.142|root|admin|Vietnam(VN)|Hanoi|
+113.172.202.33|root|admin|Vietnam(VN)|Hanoi|
+123.25.21.224|root|admin|Vietnam(VN)|Hanoi|
+123.21.67.249|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.90.45|root|admin|Vietnam(VN)|Ho Chi Minh City|
+171.224.224.59|root|admin|Vietnam(VN)|Nam Dinh|
+123.24.91.62|root|admin|Vietnam(VN)|Hanoi|
+117.0.200.135|root|admin|Vietnam(VN)|Hanoi|
+123.16.124.25|root|admin|Vietnam(VN)|Nam Dinh|
+14.177.36.119|root|admin|Vietnam(VN)|Hanoi|
+117.5.248.171|root|admin|Vietnam(VN)|Hanoi|
+113.173.2.152|admin|password|Vietnam(VN)|Ho Chi Minh City|
+113.172.201.184|ftp|ftp|Vietnam(VN)|Hanoi|
+123.16.238.218|root|admin|Vietnam(VN)|Hanoi|
+14.164.214.173|admin|admin@123|Vietnam(VN)|Can Tho|
+123.20.177.207|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.157.54|operator|operator|Vietnam(VN)|Hanoi|
+14.177.209.93|root|admin|Vietnam(VN)|Hanoi|
+117.5.223.44|root|admin|Vietnam(VN)|Hanoi|
+113.190.121.213|root|admin|Vietnam(VN)|Hanoi|
+113.172.191.98|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.255.158|root|admin|Vietnam(VN)|Hanoi|
+113.177.118.6|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.183.174|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+113.177.115.33|root|admin|Vietnam(VN)|Ho Chi Minh City|
+27.72.28.232|system|OkwKcECs8qJP2Z|Vietnam(VN)|Hanoi|
+116.107.102.29|root|admin|Vietnam(VN)|Hanoi|
+123.21.102.93|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.26.239|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.235.36|operator|operator|Vietnam(VN)|Hanoi|
+117.1.135.187|root|admin|Vietnam(VN)|Thái Nguyên|
+14.162.145.83|root|admin|Vietnam(VN)|Hanoi|
+116.109.67.56|admin|password|Vietnam(VN)|Ho Chi Minh City|
+123.20.9.30|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.182.226.233|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+117.5.37.61|root|admin|Vietnam(VN)|Hanoi|
+113.172.226.153|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.114.167|support|support|Vietnam(VN)|Ho Chi Minh City|
+113.172.128.171|support|support|Vietnam(VN)|Ho Chi Minh City|
+113.178.65.14|root|admin|Vietnam(VN)|Hanoi|
+123.16.171.105|root|admin|Vietnam(VN)|Hanoi|
+113.162.244.64|admin|admin|Vietnam(VN)|Hanoi|
+116.107.14.8|admin|1234|Vietnam(VN)|Bac Giang|
+14.169.149.204|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.161.19.226|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.216.32|ubnt|ubnt|Vietnam(VN)|Thái Bình|
+123.20.170.151|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.150.151|root|admin|Vietnam(VN)|Hanoi|
+14.162.192.209|root|admin|Vietnam(VN)|Hanoi|
+116.107.78.96|root|admin|Vietnam(VN)|Hanoi|
+113.172.222.186|root|admin|Vietnam(VN)|Hanoi|
+123.21.118.25|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.188.103|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.26.216|root|admin|Vietnam(VN)|Ho Chi Minh City|
+116.107.75.86|root|admin|Vietnam(VN)|Hanoi|
+113.172.161.56|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.46.254|root|admin|Vietnam(VN)|Ho Chi Minh City|
+42.117.55.148|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.24.190.36|root|admin|Vietnam(VN)|Nam Dinh|
+123.24.47.157|operator|operator|Vietnam(VN)|Hanoi|
+113.177.116.215|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.16.135.234|root|admin|Vietnam(VN)|Hanoi|
+113.172.114.231|support|support|Vietnam(VN)|Ho Chi Minh City|
+14.162.83.235|root|admin|Vietnam(VN)|Hanoi|
+123.20.173.153|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+113.163.187.18|root|abc123|Vietnam(VN)|Hanoi|
+113.174.61.170|admin|admin|Vietnam(VN)|Biên Hòa|
+123.24.177.77|admin|admin|Vietnam(VN)|Hanoi|
+171.224.220.44|root|admin|Vietnam(VN)|Hanoi|
+113.172.197.160|root|admin|Vietnam(VN)|Hanoi|
+117.7.230.113|admin|password|Vietnam(VN)|Hanoi|
+113.190.75.18|root|admin|Vietnam(VN)|Hanoi|
+171.224.112.223|root|admin|Vietnam(VN)|Hanoi|
+171.224.56.134|root|admin|Vietnam(VN)|Hanoi|
+123.21.165.50|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.22.169.61|operator|operator|Vietnam(VN)|Hanoi|
+113.174.160.16|admin|password|Vietnam(VN)|Dong Ha|
+113.190.215.189|root|admin|Vietnam(VN)|Hanoi|
+123.16.71.196|root|admin|Vietnam(VN)|Hanoi|
+123.21.69.171|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.1.202.78|root|admin|Vietnam(VN)|Hanoi|
+123.24.185.169|root|admin|Vietnam(VN)|Nam Dinh|
+123.20.81.216|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.78.34|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.161.47.74|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.53.145|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+171.224.227.85|root|root|Vietnam(VN)|Nam Dinh|
+113.190.221.158|root|admin|Vietnam(VN)|Thái Bình|
+113.172.119.209|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.168.173|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.252.233|admin|1234|Vietnam(VN)|Hanoi|
+123.20.165.112|root|admin|Vietnam(VN)|Ho Chi Minh City|
+118.69.217.60|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.87.138|system|OkwKcECs8qJP2Z|Vietnam(VN)|Ho Chi Minh City|
+14.161.44.88|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.176.1|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.172.233|nagios|nagios|Vietnam(VN)|Ho Chi Minh City|
+115.78.126.106|admin|123456|Vietnam(VN)|Hong Ngu|
+113.172.148.189|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.101.205|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.165.46|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.98.56|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.173.239.231|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.160.184.59|root|admin|Vietnam(VN)|Vinh|
+113.190.196.159|root|admin|Vietnam(VN)|Hanoi|
+113.173.233.238|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.28.204.147|root|admin|Vietnam(VN)|Hanoi|
+123.20.171.65|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.165.12|root|admin|Vietnam(VN)|Hanoi|
+123.16.251.214|support|support|Vietnam(VN)|Hanoi|
+117.1.200.37|root|admin|Vietnam(VN)|Hanoi|
+123.21.126.198|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.24.112.158|root|admin|Vietnam(VN)|Hanoi|
+116.107.1.184|root|admin|Vietnam(VN)|Hanoi|
+14.169.152.36|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.170.139|admin|admin|Vietnam(VN)|Ho Chi Minh City|
+116.107.89.43|root|admin|Vietnam(VN)|Hanoi|
+123.21.187.34|admin|123456|Vietnam(VN)|Da Lat|
+123.21.149.75|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.165.103|root|admin|Vietnam(VN)|Quang Binh|
+123.16.145.244|root|admin|Vietnam(VN)|Hanoi|
+113.190.216.2|root|admin|Vietnam(VN)|Thái Bình|
+123.16.234.155|root|admin|Vietnam(VN)|Hanoi|
+113.170.122.125|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.147.23|root|admin|Vietnam(VN)|Ho Chi Minh City|
+116.107.26.185|ubnt|ubnt|Vietnam(VN)|Thái Bình|
+27.72.81.187|root|admin|Vietnam(VN)|Hanoi|
+123.21.182.16|root|admin|Vietnam(VN)|Da Lat|
+14.176.156.157|root|admin|Vietnam(VN)|Hanoi|
+14.161.28.21|admin|admin|Vietnam(VN)|Ho Chi Minh City|
+171.224.193.19|root|admin|Vietnam(VN)|Bac Giang|
+171.224.203.224|root|admin|Vietnam(VN)|Bac Giang|
+123.28.156.202|admin|default|Vietnam(VN)|Hanoi|
+171.224.160.22|root|admin|Vietnam(VN)|Hanoi|
+14.162.72.128|root|admin|Vietnam(VN)|Hanoi|
+171.224.37.88|root|admin|Vietnam(VN)|Hanoi|
+113.172.102.202|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.75.148|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.76.236|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.96.167|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.177.218.89|root|admin|Vietnam(VN)|Hanoi|
+117.0.164.5|root|admin|Vietnam(VN)|Hanoi|
+171.224.79.122|root|admin|Vietnam(VN)|Hanoi|
+14.161.45.83|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.2.58|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.162.90.167|root|admin|Vietnam(VN)|Hanoi|
+123.20.26.110|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.21.75.19|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.16.134.134|root|admin|Vietnam(VN)|Hanoi|
+123.21.159.214|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.97.162|admin|1234|Vietnam(VN)|Hanoi|
+123.21.109.41|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.177.128.149|root|admin|Vietnam(VN)|Truong|
+123.21.69.16|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.1.226.205|root|admin|Vietnam(VN)|Hai Phong|
+117.0.160.26|support|support|Vietnam(VN)|Hanoi|
+113.172.202.8|admin|1234|Vietnam(VN)|Hanoi|
+123.21.186.147|root|admin|Vietnam(VN)|Da Lat|
+14.162.162.92|root|admin|Vietnam(VN)|Nam Dinh|
+171.224.91.155|root|admin|Vietnam(VN)|Hanoi|
+113.190.220.34|root|admin|Vietnam(VN)|Thái Bình|
+123.21.167.97|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.178.42.244|root|admin|Vietnam(VN)|Hanoi|
+14.161.27.79|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.0.195.89|root|admin|Vietnam(VN)|Hanoi|
+123.20.16.221|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.7.156|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.173.44|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+117.1.103.98|root|admin|Vietnam(VN)|Nam Dinh|
+171.224.236.61|root|admin|Vietnam(VN)|Nam Dinh|
+113.184.153.193|root|admin|Vietnam(VN)|Hanoi|
+123.20.21.171|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.89.21|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+117.5.185.93|root|admin|Vietnam(VN)|Hanoi|
+123.16.232.229|admin|1234|Vietnam(VN)|Hanoi|
+117.1.193.1|root|admin|Vietnam(VN)|Hanoi|
+123.21.96.186|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.27.183.163|admin|1234|Vietnam(VN)|Tien Lu|
+14.162.144.203|admin|admin|Vietnam(VN)|Hanoi|
+113.162.39.159|root|admin|Vietnam(VN)|Hai Phong|
+123.18.22.236|ubnt|ubnt|Vietnam(VN)|Quang Xuong|
+14.169.163.118|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+113.172.201.88|root|admin|Vietnam(VN)|Hanoi|
+123.21.224.48|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.132.198|root|admin|Vietnam(VN)|Hanoi|
+117.1.164.62|root|admin|Vietnam(VN)|Hanoi|
+14.161.19.196|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.130.106|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.24.65.3|root|admin|Vietnam(VN)|Hanoi|
+123.16.162.125|root|admin|Vietnam(VN)|Hanoi|
+117.1.195.119|root|admin|Vietnam(VN)|Hanoi|
+117.5.189.37|root|admin|Vietnam(VN)|Hanoi|
+113.178.75.2|admin|1234|Vietnam(VN)|Hanoi|
+123.21.183.48|root|admin|Vietnam(VN)|Da Lat|
+14.162.169.240|root|admin|Vietnam(VN)|Hanoi|
+113.177.123.5|admin|admin|Vietnam(VN)|Ho Chi Minh City|
+117.1.132.214|root|admin|Vietnam(VN)|Thái Nguyên|
+116.118.104.59|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.108.127|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.177.248.214|root|admin|Vietnam(VN)|Hanoi|
+123.21.66.176|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.7.85|root|admin|Vietnam(VN)|Ho Chi Minh City|
+116.107.71.71|admin|1234|Vietnam(VN)|Hanoi|
+123.21.71.79|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.90.171|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.21.73.8|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.177.250.164|root|admin|Vietnam(VN)|Hanoi|
+14.169.165.11|root|admin|Vietnam(VN)|Quang Binh|
+123.16.241.94|admin|1234|Vietnam(VN)|Hanoi|
+113.172.222.52|root|admin|Vietnam(VN)|Hanoi|
+14.161.7.77|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.168.33.243|operator|operator|Vietnam(VN)|Hanoi|
+171.224.95.241|root|admin|Vietnam(VN)|Hanoi|
+123.20.165.144|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.25.21.254|ftp|ftp|Vietnam(VN)|Hanoi|
+116.107.53.47|root|admin|Vietnam(VN)|Phu Ly|
+123.21.183.244|root|admin|Vietnam(VN)|Da Lat|
+123.21.155.73|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.81.5|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.240.115.73|operator|operator|Vietnam(VN)|Hanoi|
+123.21.120.119|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+123.20.24.118|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.85.5|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+117.1.192.24|ubnt|ubnt|Vietnam(VN)|Hanoi|
+14.162.170.198|root|admin|Vietnam(VN)|Hanoi|
+113.172.156.71|ubnt|ubnt|Vietnam(VN)|Ho Chi Minh City|
+113.172.108.229|admin|default|Vietnam(VN)|Ho Chi Minh City|
+113.172.168.29|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+113.190.254.201|root|admin|Vietnam(VN)|Hanoi|
+117.1.105.5|root|admin|Vietnam(VN)|Hanoi|
+113.172.191.79|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.102.107|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+113.172.184.234|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.173.245.117|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.0.60.120|root|admin|Vietnam(VN)|Hanoi|
+123.28.215.244|root|admin|Vietnam(VN)|Hanoi|
+123.20.159.157|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.116.205|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.152.243|root|admin|Vietnam(VN)|Hanoi|
+113.190.218.29|root|admin|Vietnam(VN)|Thái Bình|
+14.162.141.3|root|admin|Vietnam(VN)|Hanoi|
+14.169.182.189|root|admin|Vietnam(VN)|Ho Chi Minh City|
+171.224.237.198|root|admin|Vietnam(VN)|Nam Dinh|
+123.25.30.232|root|admin|Vietnam(VN)|Hanoi|
+117.1.235.166|admin|1234|Vietnam(VN)|Hai Phong|
+14.162.140.117|root|admin|Vietnam(VN)|Hanoi|
+113.173.5.108|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.80.88|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.173.1.54|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.203.182|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.24.74.113|ftp|ftp|Vietnam(VN)|Hanoi|
+113.173.241.83|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.102.77|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.74.218|root|admin|Vietnam(VN)|Hanoi|
+113.172.126.221|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.240.2|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.18.17.170|root|admin|Vietnam(VN)|Quang Xuong|
+116.107.32.153|root|admin|Vietnam(VN)|Hanoi|
+14.177.249.13|root|admin|Vietnam(VN)|Hanoi|
+113.190.112.52|operator|operator|Vietnam(VN)|Hanoi|
+113.172.203.247|admin|123456|Vietnam(VN)|Hanoi|
+123.20.8.234|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.123.175|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.190.137|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.194.253|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.106.104|ubnt|ubnt|Vietnam(VN)|Ho Chi Minh City|
+113.190.230.39|root|admin|Vietnam(VN)|Hanoi|
+123.21.181.159|root|admin|Vietnam(VN)|Da Lat|
+14.163.118.120|root|admin|Vietnam(VN)|Hanoi|
+113.172.96.117|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.0.70.207|root|admin|Vietnam(VN)|Hanoi|
+14.168.83.249|admin|1234|Vietnam(VN)|Hanoi|
+113.163.82.1|root|admin|Vietnam(VN)|Hanoi|
+14.169.133.11|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.175.225|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.177.232.212|admin|0l0ctyQh243O63uD|Vietnam(VN)|Hanoi|
+113.176.38.74|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.81.180|root|admin|Vietnam(VN)|Hanoi|
+123.21.94.146|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.173.236.160|ftp|ftp|Vietnam(VN)|Ho Chi Minh City|
+123.21.247.67|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.1.23.100|root|admin|Vietnam(VN)|Hanoi|
+14.162.97.31|root|admin|Vietnam(VN)|Hanoi|
+113.173.238.158|root|admin|Vietnam(VN)|Ho Chi Minh City|
+171.224.56.246|root|admin|Vietnam(VN)|Hanoi|
+123.21.70.119|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+118.69.36.47|admin|admin|Vietnam(VN)|Ho Chi Minh City|
+117.1.122.179|root|admin|Vietnam(VN)|Hanoi|
+113.177.128.127|root|admin|Vietnam(VN)|Truong|
+123.21.229.241|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.21.86.121|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.105.94|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.184.173|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.225.183|root|root|Vietnam(VN)|Hanoi|
+123.20.32.9|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.24.206.222|root|admin|Vietnam(VN)|Hanoi|
+113.176.61.207|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.160.106.183|root|admin|Vietnam(VN)|Hai Phong|
+113.172.197.127|root|admin|Vietnam(VN)|Hanoi|
+14.162.193.124|root|admin|Vietnam(VN)|Hanoi|
+113.172.185.33|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+123.20.20.173|support|support|Vietnam(VN)|Ho Chi Minh City|
+117.1.127.121|admin|1234|Vietnam(VN)|Hanoi|
+123.21.98.251|admin|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.137.123|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+14.169.149.192|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.161.228|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.47.2|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.28.99|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.121.154|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.185.186|root|admin|Vietnam(VN)|Da Lat|
+14.162.24.172|root|admin|Vietnam(VN)|Hanoi|
+14.162.184.61|root|admin|Vietnam(VN)|Hanoi|
+113.178.67.23|admin|1234|Vietnam(VN)|Hanoi|
+123.20.87.119|support|support|Vietnam(VN)|Ho Chi Minh City|
+117.5.47.151|root|admin|Vietnam(VN)|Hanoi|
+27.72.45.177|root|admin|Vietnam(VN)|Hanoi|
+123.16.145.157|root|admin|Vietnam(VN)|Hanoi|
+113.172.129.238|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.1.231.65|root|admin|Vietnam(VN)|Hai Phong|
+123.16.248.205|root|admin|Vietnam(VN)|Hanoi|
+113.177.115.110|ftp|ftp|Vietnam(VN)|Ho Chi Minh City|
+14.169.134.127|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.202.88|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.129.248|root|admin|Vietnam(VN)|Hanoi|
+14.162.170.101|root|admin|Vietnam(VN)|Hanoi|
+117.1.187.14|root|admin|Vietnam(VN)|Hanoi|
+113.172.104.6|root|12345|Vietnam(VN)|Ho Chi Minh City|
+14.162.83.166|root|admin|Vietnam(VN)|Hanoi|
+14.172.177.181|root|admin|Vietnam(VN)|Binh Duong|
+123.20.20.58|user|1234|Vietnam(VN)|Ho Chi Minh City|
+14.177.82.109|root|admin|Vietnam(VN)|Hanoi|
+118.69.9.190|root|admin|Vietnam(VN)|Da Nang|
+14.162.145.105|root|admin|Vietnam(VN)|Hanoi|
+14.169.162.55|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.177.25.135|root|admin|Vietnam(VN)|Hanoi|
+123.21.33.5|admin|0l0ctyQh243O63uD|Vietnam(VN)|Ho Chi Minh City|
+42.119.127.162|admin|admin123|Vietnam(VN)|Ho Chi Minh City|
+123.21.97.223|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.68.94|ftp|ftp|Vietnam(VN)|Ho Chi Minh City|
+14.163.252.147|root|admin|Vietnam(VN)|Hanoi|
+123.21.106.234|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.120.223|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+14.181.68.74|root|admin|Vietnam(VN)|Hanoi|
+113.162.69.228|root|admin|Vietnam(VN)|Hanoi|
+116.107.201.42|ftp|ftp|Vietnam(VN)|Thái Nguyên|
+123.21.162.109|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.163.18|root|admin|Vietnam(VN)|Hanoi|
+14.177.234.199|root|admin|Vietnam(VN)|Hanoi|
+113.186.41.137|root|admin|Vietnam(VN)|Hanoi|
+113.190.255.134|user|1234|Vietnam(VN)|Hanoi|
+123.21.153.138|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.161.118|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.24.183.119|operator|operator|Vietnam(VN)|Hanoi|
+123.21.196.21|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.173.11.220|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.59.98|root|12345|Vietnam(VN)|Hanoi|
+113.190.129.22|root|admin|Vietnam(VN)|Hanoi|
+123.21.204.163|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.204.161|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.105.187|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.166.119|root|admin|Vietnam(VN)|Quang Binh|
+113.190.137.75|admin|admin01|Vietnam(VN)|Hanoi|
+14.166.128.38|admin|1234|Vietnam(VN)|Hanoi|
+123.21.187.57|root|admin|Vietnam(VN)|Da Lat|
+14.177.12.132|root|admin|Vietnam(VN)|Hanoi|
+113.172.174.234|user1|123456|Vietnam(VN)|Ho Chi Minh City|
+117.5.146.181|admin|1234|Vietnam(VN)|Hanoi|
+113.172.107.111|ubnt|ubnt|Vietnam(VN)|Ho Chi Minh City|
+113.173.237.44|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.173.232.74|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.161.37.102|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+171.224.190.15|root|admin|Vietnam(VN)|Hanoi|
+123.24.168.149|ftp|ftp|Vietnam(VN)|Hanoi|
+123.21.113.8|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.24.167.56|support|support|Vietnam(VN)|Hanoi|
+123.20.103.28|ftp|ftp|Vietnam(VN)|Ho Chi Minh City|
+123.21.136.146|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.132.170|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.1.103.168|root|admin|Vietnam(VN)|Nam Dinh|
+123.21.101.77|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+113.190.216.104|root|admin|Vietnam(VN)|Thái Bình|
+14.162.124.238|root|admin|Vietnam(VN)|Hanoi|
+123.20.160.125|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+203.210.129.204|root|admin|Vietnam(VN)|Hanoi|
+117.5.254.200|root|admin|Vietnam(VN)|Hanoi|
+123.21.72.4|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.149.81|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.200.162|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.173.10.120|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.0.196.200|root|admin|Vietnam(VN)|Hanoi|
+116.107.72.65|root|admin|Vietnam(VN)|Hanoi|
+117.1.201.201|root|admin|Vietnam(VN)|Hanoi|
+171.224.236.47|admin|vertex25|Vietnam(VN)|Nam Dinh|
+123.20.154.180|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.198.202|root|admin|Vietnam(VN)|Hanoi|
+14.161.18.219|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.160.56|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.172.76|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.161.19.20|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.178.167|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.179.247|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.152.67|operator|operator|Vietnam(VN)|Hanoi|
+116.107.56.51|operator|operator|Vietnam(VN)|Ha Nam|
+123.20.51.131|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.48.2|root|admin|Vietnam(VN)|Hanoi|
+123.20.166.214|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.178.20.230|root|admin|Vietnam(VN)|Hanoi|
+113.177.69.184|operator|operator|Vietnam(VN)|Hanoi|
+123.20.37.162|admin|password|Vietnam(VN)|Ho Chi Minh City|
+123.20.171.241|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.193.59|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.162.7.30|root|admin|Vietnam(VN)|Hanoi|
+123.20.27.238|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.254.159|root|admin|Vietnam(VN)|Hanoi|
+14.177.243.121|root|admin|Vietnam(VN)|Hanoi|
+113.172.177.67|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.37.145|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.173.233.3|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.97.93|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.161.246|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.1.173.251|admin|1234|Vietnam(VN)|Hanoi|
+123.20.17.157|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.110.113|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.167.74|admin|default|Vietnam(VN)|Quang Binh|
+123.21.64.213|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.252.172|root|admin|Vietnam(VN)|Ho Chi Minh City|
+222.252.29.18|root|root|Vietnam(VN)|Hanoi|
+113.190.129.34|root|admin|Vietnam(VN)|Hanoi|
+112.78.4.59|demo|123456|Vietnam(VN)|Hanoi|
+14.162.161.90|root|admin|Vietnam(VN)|Hanoi|
+14.169.178.201|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+14.169.188.232|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.73.16|admin|1234|Vietnam(VN)|Hanoi|
+113.190.142.66|root|admin|Vietnam(VN)|Hanoi|
+123.20.126.166|support|admin|Vietnam(VN)|Ho Chi Minh City|
+14.171.66.73|root|admin|Vietnam(VN)|Hai Duong|
+123.16.241.28|root|admin|Vietnam(VN)|Hanoi|
+117.1.123.235|root|admin|Vietnam(VN)|Hanoi|
+123.20.158.145|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.129.33|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.170.122.19|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.1.109.139|root|admin|Vietnam(VN)|Hanoi|
+123.20.98.87|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+14.169.185.250|root|admin|Vietnam(VN)|Ho Chi Minh City|
+118.69.37.121|admin|0l0ctyQh243O63uD|Vietnam(VN)|Ho Chi Minh City|
+123.16.13.27|admin|admin|Vietnam(VN)|Hanoi|
+171.224.92.188|ftp|ftp|Vietnam(VN)|Hanoi|
+113.163.3.163|admin|1234|Vietnam(VN)|Hung Yen|
+113.190.90.118|root|admin|Vietnam(VN)|Hanoi|
+123.16.58.104|root|root|Vietnam(VN)|Hanoi|
+117.1.178.188|root|admin|Vietnam(VN)|Hanoi|
+113.172.171.16|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.166.130|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.75.98|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.146.218|root|admin|Vietnam(VN)|Hanoi|
+123.22.169.108|root|admin|Vietnam(VN)|Hanoi|
+123.21.198.79|support|support|Vietnam(VN)|Ho Chi Minh City|
+113.172.180.44|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.21.162.43|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+14.177.246.4|root|admin|Vietnam(VN)|Hanoi|
+117.1.225.233|root|admin|Vietnam(VN)|Hai Phong|
+123.16.34.143|root|admin|Vietnam(VN)|Hanoi|
+123.16.220.14|admin|admin@123|Vietnam(VN)|Hanoi|
+123.21.203.149|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+14.161.169.88|root|admin|Vietnam(VN)|Vung Tau|
+113.172.223.5|root|admin|Vietnam(VN)|Hanoi|
+113.190.213.33|root|admin|Vietnam(VN)|Hanoi|
+123.21.109.209|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.225.184|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.113.179|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+117.5.179.255|root|admin|Vietnam(VN)|Hanoi|
+171.224.236.139|root|admin|Vietnam(VN)|Nam Dinh|
+123.20.105.226|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+113.163.72.190|ubnt|ubnt|Vietnam(VN)|Hanoi|
+14.162.132.58|root|admin|Vietnam(VN)|Hanoi|
+123.21.72.121|root|admin|Vietnam(VN)|Ho Chi Minh City|
+171.224.179.171|root|admin|Vietnam(VN)|Hanoi|
+14.162.155.0|admin|1234|Vietnam(VN)|Hanoi|
+113.190.230.132|root|admin|Vietnam(VN)|Hanoi|
+123.21.102.11|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.224.13|admin|1234|Vietnam(VN)|Hanoi|
+123.21.224.209|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.131.79|admin|1234|Vietnam(VN)|Hanoi|
+14.161.48.38|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.178.152|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.161.44.195|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.199.115|root|admin|Vietnam(VN)|Hanoi|
+171.224.135.196|root|admin|Vietnam(VN)|Hanoi|
+113.177.116.130|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+14.161.47.81|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.164.114|root|admin|Vietnam(VN)|Hanoi|
+171.224.222.26|root|admin|Vietnam(VN)|Hanoi|
+113.190.225.114|root|admin|Vietnam(VN)|Hanoi|
+123.21.174.95|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.21.93.116|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.1.202|ubnt|ubnt|Vietnam(VN)|Ho Chi Minh City|
+123.16.237.166|root|admin|Vietnam(VN)|Hanoi|
+14.169.151.231|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.255.62|ftp|ftp|Vietnam(VN)|Hanoi|
+123.20.102.186|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.20.102.240|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.5.227.216|root|admin|Vietnam(VN)|Hanoi|
+14.162.85.73|admin|1234|Vietnam(VN)|Hanoi|
+14.176.155.74|root|admin|Vietnam(VN)|Hanoi|
+14.162.177.9|root|admin|Vietnam(VN)|Hanoi|
+117.1.35.99|root|admin|Vietnam(VN)|Hanoi|
+123.20.156.224|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.86.183|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.22.195.246|root|admin|Vietnam(VN)|Hanoi|
+171.224.28.73|root|admin|Vietnam(VN)|Hanoi|
+123.18.22.176|root|admin|Vietnam(VN)|Quang Xuong|
+117.1.189.200|ftp|ftp|Vietnam(VN)|Hanoi|
+171.224.190.85|root|admin|Vietnam(VN)|Hanoi|
+14.161.17.66|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.5.184.26|root|admin|Vietnam(VN)|Hanoi|
+123.21.99.149|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.164.39|root|admin|Vietnam(VN)|Quang Binh|
+123.21.130.113|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.18.88|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.176.154.41|root|admin|Vietnam(VN)|Hanoi|
+123.21.244.53|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.170.113.175|admin|1234|Vietnam(VN)|Hanoi|
+113.172.176.228|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.179.106|root|admin|Vietnam(VN)|Da Lat|
+123.16.227.24|support|support|Vietnam(VN)|Hanoi|
+123.24.163.90|ubnt|ubnt|Vietnam(VN)|Hanoi|
+113.172.221.85|root|admin|Vietnam(VN)|Hanoi|
+113.177.115.226|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.83.151|root|admin|Vietnam(VN)|Hanoi|
+117.5.42.57|admin|1234|Vietnam(VN)|Hanoi|
+123.20.8.225|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.242.52|root|admin|Vietnam(VN)|Hanoi|
+123.20.28.72|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.21.181.218|admin|1234|Vietnam(VN)|Da Lat|
+113.190.109.150|root|admin|Vietnam(VN)|Hanoi|
+113.177.118.48|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.188.178|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.124.231|root|admin|Vietnam(VN)|Ho Chi Minh City|
+171.224.230.214|admin|vertex25|Vietnam(VN)|Nam Dinh|
+117.1.164.217|admin|1234|Vietnam(VN)|Hanoi|
+113.173.237.8|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.151.237|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.140.203|root|admin|Vietnam(VN)|Hanoi|
+123.21.92.97|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.161.71|support|support|Vietnam(VN)|Hanoi|
+14.167.183.94|root|admin|Vietnam(VN)|Hanoi|
+123.27.183.235|root|admin|Vietnam(VN)|Tien Lu|
+116.107.91.73|root|admin|Vietnam(VN)|Hanoi|
+14.162.153.230|root|admin|Vietnam(VN)|Hanoi|
+123.16.97.251|root|admin|Vietnam(VN)|Hanoi|
+117.1.212.149|root|admin|Vietnam(VN)|Hanoi|
+14.161.7.85|admin|admin123|Vietnam(VN)|Ho Chi Minh City|
+123.21.98.157|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.124.66|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+113.190.145.97|root|admin|Vietnam(VN)|Hanoi|
+27.72.19.43|root|admin|Vietnam(VN)|Hanoi|
+113.172.254.211|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.160.208.149|admin|admin|Vietnam(VN)|Bac Ninh|
+113.161.196.49|admin|1234|Vietnam(VN)|Bac Lieu|
+123.20.2.88|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+123.24.176.155|ftp|ftp|Vietnam(VN)|Hanoi|
+113.160.154.31|admin|admin|Vietnam(VN)|Hanoi|
+118.69.211.116|root|admin|Vietnam(VN)|Hanoi|
+14.162.188.137|root|admin|Vietnam(VN)|Hanoi|
+113.172.227.183|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.152.24|support|admin|Vietnam(VN)|Ho Chi Minh City|
+113.176.64.158|demo|123456|Vietnam(VN)|Hanoi|
+123.24.183.234|ftp|ftp|Vietnam(VN)|Hanoi|
+123.21.110.92|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+14.162.245.15|root|admin|Vietnam(VN)|Hanoi|
+113.163.150.68|root|admin|Vietnam(VN)|Hanoi|
+123.22.169.192|root|admin|Vietnam(VN)|Hanoi|
+14.169.130.138|ftp|ftp|Vietnam(VN)|Ho Chi Minh City|
+113.172.154.4|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.234.239|ftp|ftp|Vietnam(VN)|Hanoi|
+116.107.60.211|root|admin|Vietnam(VN)|Phu Ly|
+14.177.216.127|root|admin|Vietnam(VN)|Hanoi|
+123.27.155.13|ftp|ftp|Vietnam(VN)|Bac Ninh|
+113.172.116.110|admin|password|Vietnam(VN)|Ho Chi Minh City|
+123.21.66.213|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.179.200|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.10.153|root|admin|Vietnam(VN)|Hanoi|
+123.16.6.217|root|admin|Vietnam(VN)|Hanoi|
+123.16.32.135|root|root|Vietnam(VN)|Hanoi|
+117.1.139.103|root|admin|Vietnam(VN)|Thái Nguyên|
+117.1.219.159|nagios|nagios|Vietnam(VN)|Hanoi|
+123.21.190.197|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.92.137|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+113.172.222.175|root|admin|Vietnam(VN)|Hanoi|
+14.161.13.16|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.24.96.152|root|admin|Vietnam(VN)|Hanoi|
+14.175.90.61|root|admin|Vietnam(VN)|Hanoi|
+123.21.148.131|root|admin|Vietnam(VN)|Ho Chi Minh City|
+116.107.53.37|root|admin|Vietnam(VN)|Phu Ly|
+123.20.18.97|root|admin|Vietnam(VN)|Ho Chi Minh City|
+116.107.24.95|root|admin|Vietnam(VN)|Thái Bình|
+123.24.186.32|root|admin|Vietnam(VN)|Nam Dinh|
+113.172.96.90|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.244.171|root|admin|Vietnam(VN)|Hanoi|
+123.24.123.108|root|admin|Vietnam(VN)|Hanoi|
+123.21.71.101|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.173.4.224|root|admin|Vietnam(VN)|Hanoi|
+123.21.112.32|ftp|ftp|Vietnam(VN)|Ho Chi Minh City|
+117.0.155.87|ftp|ftp|Vietnam(VN)|Hanoi|
+113.172.227.187|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.173.4.36|root|admin|Vietnam(VN)|Hanoi|
+14.162.156.17|root|admin|Vietnam(VN)|Hanoi|
+123.20.169.205|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.23.243.37|root|admin|Vietnam(VN)|Hanoi|
+14.169.131.24|root|admin|Vietnam(VN)|Ho Chi Minh City|
+116.118.112.115|admin|admin01|Vietnam(VN)|Ho Chi Minh City|
+113.190.146.79|root|admin|Vietnam(VN)|Hanoi|
+123.21.87.101|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.161.143|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.175.31|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.151.242|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.177.128.43|root|admin|Vietnam(VN)|Truong|
+123.24.139.28|root|admin|Vietnam(VN)|Hanoi|
+123.21.124.89|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.183.21.104|root|admin|Vietnam(VN)|Hanoi|
+118.69.9.61|root|admin|Vietnam(VN)|Da Nang|
+123.20.165.224|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.134.76|root|admin|Vietnam(VN)|Hanoi|
+113.178.49.42|root|admin|Vietnam(VN)|Hanoi|
+123.24.127.28|ftp|ftp|Vietnam(VN)|Hanoi|
+14.164.227.91|root|admin|Vietnam(VN)|Ben Luc|
+113.173.234.240|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.3.204|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.173.241.56|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.203.87|root|admin|Vietnam(VN)|Hanoi|
+14.169.190.108|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.161.19.67|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.1.108.167|root|admin|Vietnam(VN)|Hanoi|
+14.161.49.29|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.69.227|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.161.44.150|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.176.197.169|operator|operator|Vietnam(VN)|Da Nang|
+123.20.10.40|support|support|Vietnam(VN)|Ho Chi Minh City|
+14.162.117.41|root|admin|Vietnam(VN)|Hanoi|
+123.21.171.49|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.169.172|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.181.212.119|root|admin|Vietnam(VN)|Hanoi|
+113.172.157.22|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.242.67|root|admin|Vietnam(VN)|Hanoi|
+123.21.186.249|admin|1234|Vietnam(VN)|Da Lat|
+113.176.3.94|root|admin|Vietnam(VN)|Hanoi|
+27.72.73.92|root|admin|Vietnam(VN)|Tuyên Quang|
+123.24.136.2|root|admin|Vietnam(VN)|Hanoi|
+117.1.177.7|root|admin|Vietnam(VN)|Hanoi|
+14.177.235.133|admin|admin|Vietnam(VN)|Hanoi|
+113.172.149.174|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.231.137.139|admin|password|Vietnam(VN)|Hanoi|
+113.183.159.5|root|admin|Vietnam(VN)|Hanoi|
+113.190.11.227|system|OkwKcECs8qJP2Z|Vietnam(VN)|Hanoi|
+123.21.189.1|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.63.135|root|admin|Vietnam(VN)|Hanoi|
+117.5.44.56|root|admin|Vietnam(VN)|Hanoi|
+123.21.100.173|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+113.172.155.42|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.74.164|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.148.95|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.27.155.18|root|admin|Vietnam(VN)|Bac Ninh|
+113.190.216.109|ftp|ftp|Vietnam(VN)|Thái Bình|
+113.175.116.149|root|admin|Vietnam(VN)|Hai Phong|
+113.190.133.122|admin|1234|Vietnam(VN)|Hanoi|
+123.21.76.216|root|admin|Vietnam(VN)|Ho Chi Minh City|
+116.118.1.124|root|admin|Vietnam(VN)|Nguyên|
+123.21.247.109|root|admin|Vietnam(VN)|Ho Chi Minh City|
+171.224.226.254|root|admin|Vietnam(VN)|Nam Dinh|
+171.224.233.49|root|admin|Vietnam(VN)|Nam Dinh|
+27.3.134.3|system|OkwKcECs8qJP2Z|Vietnam(VN)|Ho Chi Minh City|
+123.21.206.17|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.161.196.176|root|admin|Vietnam(VN)|Bac Lieu|
+14.172.59.236|root|admin|Vietnam(VN)|Hanoi|
+14.169.182.161|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.20.52.84|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+113.172.150.250|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+118.69.36.10|admin|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.187.200|root|admin|Vietnam(VN)|Hanoi|
+117.2.165.246|ubnt|ubnt|Vietnam(VN)|Hanoi|
+123.24.98.104|root|admin|Vietnam(VN)|Hanoi|
+123.20.169.121|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.130.156|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.175.109|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.128.62|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.166.134.60|root|admin|Vietnam(VN)|Hanoi|
+14.168.173.227|root|admin|Vietnam(VN)|Hanoi|
+113.190.211.169|root|admin|Vietnam(VN)|Hanoi|
+117.1.123.154|root|admin|Vietnam(VN)|Hanoi|
+123.20.99.176|root|admin|Vietnam(VN)|Ho Chi Minh City|
+116.107.68.67|ubnt|ubnt|Vietnam(VN)|Hanoi|
+123.24.205.48|root|admin|Vietnam(VN)|Hanoi|
+123.21.111.110|guest|guest|Vietnam(VN)|Ho Chi Minh City|
+123.21.107.153|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.127.231|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.20.19.157|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.227.164|root|admin|Vietnam(VN)|Hanoi|
+123.20.122.197|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.178.50.254|root|admin|Vietnam(VN)|Hanoi|
+123.21.89.52|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.1.241.42|root|admin|Vietnam(VN)|Hanoi|
+123.20.153.217|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.178.39.241|root|admin|Vietnam(VN)|Hanoi|
+123.21.117.149|root|12345|Vietnam(VN)|Ho Chi Minh City|
+14.171.136.128|root|admin|Vietnam(VN)|Hanoi|
+123.16.234.46|root|admin|Vietnam(VN)|Hanoi|
+123.20.19.120|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.92.149|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.110.14|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.31.159|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.76.203|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.206.1|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.24.110.193|admin|1234|Vietnam(VN)|Hanoi|
+123.21.168.217|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.206.149|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.168.214|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.70.128|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.161.8.109|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.95.1|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.224.8|root|admin|Vietnam(VN)|Hanoi|
+123.20.62.229|admin|password|Vietnam(VN)|Ho Chi Minh City|
+123.20.0.152|root|admin|Vietnam(VN)|Ho Chi Minh City|
+1.55.240.188|root|admin|Vietnam(VN)|Hanoi|
+123.23.248.82|ftp|ftp|Vietnam(VN)|Hanoi|
+113.172.117.142|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+113.190.254.128|ftp|ftp|Vietnam(VN)|Hanoi|
+14.169.130.252|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.162.11|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+113.172.203.226|root|admin|Vietnam(VN)|Hanoi|
+113.172.254.19|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.6.7.111|root|abc123|Vietnam(VN)|Hanoi|
+123.21.210.243|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.163.183|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.1.206.6|root|admin|Vietnam(VN)|Hanoi|
+113.172.202.7|root|admin|Vietnam(VN)|Hanoi|
+123.16.174.61|root|admin|Vietnam(VN)|Hanoi|
+123.20.123.111|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.21.64.40|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.5.48.185|root|admin|Vietnam(VN)|Hanoi|
+123.20.125.224|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.128.29|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+14.162.147.23|root|admin|Vietnam(VN)|Hanoi|
+123.21.88.20|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.118.35|admin|default|Vietnam(VN)|Ho Chi Minh City|
+113.178.33.217|root|admin|Vietnam(VN)|Hanoi|
+123.21.201.140|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.135.13|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.5.46.148|root|admin|Vietnam(VN)|Hanoi|
+123.21.108.21|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+117.1.184.198|root|admin|Vietnam(VN)|Hanoi|
+14.161.48.19|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.21.78.24|root|admin|Vietnam(VN)|Ho Chi Minh City|
+27.72.29.79|root|admin|Vietnam(VN)|Hanoi|
+113.190.232.7|root|admin|Vietnam(VN)|Hanoi|
+14.169.155.211|admin|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.126.172|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.171.189|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.202.179|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.178.13|root|admin|Vietnam(VN)|Da Lat|
+14.177.248.123|root|admin|Vietnam(VN)|Hanoi|
+14.168.32.64|operator|operator|Vietnam(VN)|Hanoi|
+123.20.20.251|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.158.162|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.167.246|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+113.172.204.10|root|admin|Vietnam(VN)|Hanoi|
+113.172.167.205|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.5.136.149|root|admin|Vietnam(VN)|Hanoi|
+113.172.224.212|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.24.38.75|root|admin|Vietnam(VN)|Hanoi|
+14.169.171.210|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.101.215|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+116.107.48.8|admin|1234|Vietnam(VN)|Phu Ly|
+113.172.190.134|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.169.150|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.184.83.86|root|admin|Vietnam(VN)|Hanoi|
+14.169.168.178|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.164.22.186|root|admin|Vietnam(VN)|Hanoi|
+123.21.102.167|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.170.228.92|ftp|ftp|Vietnam(VN)|Hanoi|
+113.174.43.103|operator|operator|Vietnam(VN)|Biên Hòa|
+14.169.132.140|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.254.68|root|admin|Vietnam(VN)|Hanoi|
+117.5.74.173|root|admin|Vietnam(VN)|Hanoi|
+117.5.151.109|root|admin|Vietnam(VN)|Hanoi|
+117.0.124.213|root|admin|Vietnam(VN)|Hanoi|
+123.24.65.125|root|admin|Vietnam(VN)|Hanoi|
+117.5.133.232|root|admin|Vietnam(VN)|Hanoi|
+14.169.131.16|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.78.59|root|root|Vietnam(VN)|Ho Chi Minh City|
+14.169.130.130|root|admin|Vietnam(VN)|Ho Chi Minh City|
+116.107.23.218|root|admin|Vietnam(VN)|Yen The|
+113.173.239.100|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.249.224|root|admin|Vietnam(VN)|Hanoi|
+14.161.27.203|root|admin|Vietnam(VN)|Ho Chi Minh City|
+42.119.248.60|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.143.9|root|admin|Vietnam(VN)|Hanoi|
+113.172.128.124|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.98.186|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+113.172.159.133|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.107.38|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.47.223|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.188.127|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.145.26|operator|operator|Vietnam(VN)|Hanoi|
+14.162.124.249|root|admin|Vietnam(VN)|Hanoi|
+123.24.178.185|root|admin|Vietnam(VN)|Hanoi|
+117.1.165.210|root|admin|Vietnam(VN)|Hanoi|
+14.183.23.233|root|admin|Vietnam(VN)|Hanoi|
+113.172.99.14|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.164.185|root|abc123|Vietnam(VN)|Quang Binh|
+117.5.249.159|root|admin|Vietnam(VN)|Hanoi|
+113.178.34.45|root|admin|Vietnam(VN)|Hanoi|
+14.169.135.44|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.19.252.203|admin|admin|Vietnam(VN)|Hanoi|
+123.16.67.103|root|admin|Vietnam(VN)|Hai Phong|
+113.190.93.229|root|admin|Vietnam(VN)|Hanoi|
+123.24.249.243|root|admin|Vietnam(VN)|Hanoi|
+123.21.201.62|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.1.222.233|root|admin|Vietnam(VN)|Hanoi|
+113.174.65.186|root|admin|Vietnam(VN)|Hanoi|
+14.162.168.99|root|admin|Vietnam(VN)|Hanoi|
+113.190.214.72|root|admin|Vietnam(VN)|Hanoi|
+117.0.152.137|operator|operator|Vietnam(VN)|Hanoi|
+113.190.177.180|root|admin|Vietnam(VN)|Hanoi|
+113.172.186.229|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.146.198|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+113.172.252.53|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.5.39.84|admin|1234|Vietnam(VN)|Hanoi|
+123.21.72.24|ftp|ftp|Vietnam(VN)|Ho Chi Minh City|
+117.0.92.70|admin|admin|Vietnam(VN)|Hanoi|
+113.172.174.143|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+113.172.195.5|root|admin|Vietnam(VN)|Hanoi|
+171.224.75.253|root|admin|Vietnam(VN)|Hanoi|
+123.21.171.68|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.145.157|admin|admin@123|Vietnam(VN)|Hanoi|
+113.178.48.158|root|admin|Vietnam(VN)|Hanoi|
+123.16.188.114|root|admin|Vietnam(VN)|Quan Ha|
+113.161.210.216|admin|admin|Vietnam(VN)|Can Tho|
+27.72.79.71|admin|admin|Vietnam(VN)|Tuyên Quang|
+113.172.199.249|root|admin|Vietnam(VN)|Hanoi|
+113.167.39.166|root|admin|Vietnam(VN)|Hanoi|
+117.1.252.33|root|admin|Vietnam(VN)|Hanoi|
+113.172.157.201|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.234.130|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+113.190.212.29|admin|1234|Vietnam(VN)|Hanoi|
+123.16.71.156|root|admin|Vietnam(VN)|Hanoi|
+117.1.253.2|root|admin|Vietnam(VN)|Hanoi|
+123.20.104.52|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.183.18.250|root|admin|Vietnam(VN)|Hanoi|
+123.20.107.47|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.222.69|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+116.118.104.96|root|admin|Vietnam(VN)|Ho Chi Minh City|
+27.72.79.67|root|admin|Vietnam(VN)|Tuyên Quang|
+113.172.177.204|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.5.49.188|root|admin|Vietnam(VN)|Hanoi|
+123.20.188.101|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.161.27.252|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.1.204.90|root|admin|Vietnam(VN)|Hanoi|
+171.224.225.111|root|admin|Vietnam(VN)|Nam Dinh|
+113.173.6.51|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.178.43.136|root|admin|Vietnam(VN)|Hanoi|
+113.163.13.46|root|admin|Vietnam(VN)|Hung Yen|
+117.5.151.18|root|admin|Vietnam(VN)|Hanoi|
+14.177.210.89|root|admin|Vietnam(VN)|Hanoi|
+117.1.104.69|root|admin|Vietnam(VN)|Hanoi|
+113.175.120.67|ftp|ftp|Vietnam(VN)|Hai Phong|
+123.21.254.72|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.158.58|root|admin|Vietnam(VN)|Ho Chi Minh City|
+27.72.91.11|admin|12345|Vietnam(VN)|Hanoi|
+123.20.113.114|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.169.7|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.93.161|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.70.55|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.178.34.70|root|admin|Vietnam(VN)|Hanoi|
+123.20.33.56|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.149.77|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.84.62|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.24.95.233|root|admin|Vietnam(VN)|Hanoi|
+113.172.228.40|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.203.142|root|admin|Vietnam(VN)|Hanoi|
+14.169.129.89|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.148.65|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.163.120.87|root|admin|Vietnam(VN)|Hanoi|
+123.24.205.205|root|admin|Vietnam(VN)|Hanoi|
+14.177.254.96|root|admin|Vietnam(VN)|Hanoi|
+14.171.136.96|admin|1234|Vietnam(VN)|Hanoi|
+117.5.157.190|root|admin|Vietnam(VN)|Hanoi|
+113.190.229.138|ubnt|ubnt|Vietnam(VN)|Hanoi|
+123.20.4.221|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.25.30.65|root|admin|Vietnam(VN)|Hanoi|
+222.255.225.50|system|OkwKcECs8qJP2Z|Vietnam(VN)|Hanoi|
+222.252.17.142|root|ipscan|Vietnam(VN)|Hanoi|
+123.16.70.251|root|admin|Vietnam(VN)|Hanoi|
+113.172.147.192|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.20.47.78|root|admin|Vietnam(VN)|Ho Chi Minh City|
+171.224.181.68|root|admin|Vietnam(VN)|Hanoi|
+123.16.67.252|root|admin|Vietnam(VN)|Hai Phong|
+113.167.170.111|admin|1234|Vietnam(VN)|Hanoi|
+118.69.212.236|root|admin|Vietnam(VN)|Hanoi|
+171.224.222.43|root|admin|Vietnam(VN)|Hanoi|
+113.172.194.76|root|admin|Vietnam(VN)|Hanoi|
+14.177.250.21|operator|operator|Vietnam(VN)|Hanoi|
+14.169.158.33|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.101.24|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.5.127.113|root|admin|Vietnam(VN)|Hanoi|
+117.5.112.205|root|admin|Vietnam(VN)|Hanoi|
+14.168.82.234|root|admin|Vietnam(VN)|Hanoi|
+14.168.91.16|root|admin|Vietnam(VN)|Hanoi|
+123.24.50.244|root|admin|Vietnam(VN)|Hanoi|
+123.20.60.104|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.78.189|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.183.10|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+123.20.13.32|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.178.79.189|root|admin|Vietnam(VN)|Hanoi|
+113.172.178.164|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.68.32|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.190.145|root|admin|Vietnam(VN)|Hanoi|
+14.161.17.151|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.176.26.213|admin|1234|Vietnam(VN)|Hanoi|
+117.1.120.249|operator|operator|Vietnam(VN)|Hanoi|
+113.172.99.35|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.67.138|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.161.196.141|ubnt|ubnt|Vietnam(VN)|Bac Lieu|
+171.224.40.223|root|admin|Vietnam(VN)|Hanoi|
+123.21.145.126|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.39.117|root|admin|Vietnam(VN)|Hanoi|
+123.21.135.149|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.255.125|root|admin|Vietnam(VN)|Hanoi|
+123.20.14.171|ubnt|ubnt|Vietnam(VN)|Ho Chi Minh City|
+113.190.151.233|admin|1234|Vietnam(VN)|Hanoi|
+14.169.156.32|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+117.1.108.199|root|admin|Vietnam(VN)|Hanoi|
+113.190.183.168|root|admin|Vietnam(VN)|Hanoi|
+123.21.166.21|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.199.89|root|admin|Vietnam(VN)|Hanoi|
+123.21.80.145|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.161.42.248|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+171.224.95.101|operator|operator|Vietnam(VN)|Hanoi|
+113.190.212.148|root|admin|Vietnam(VN)|Hanoi|
+123.21.151.192|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.39.61|root|admin|Vietnam(VN)|Hanoi|
+123.21.203.7|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.252.105|root|admin|Vietnam(VN)|Hanoi|
+123.16.20.198|root|admin|Vietnam(VN)|Hanoi|
+123.16.69.1|admin|1234|Vietnam(VN)|Hanoi|
+113.172.196.6|root|admin|Vietnam(VN)|Hanoi|
+113.172.163.207|ubnt|ubnt|Vietnam(VN)|Ho Chi Minh City|
+14.169.156.146|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.163.147.58|root|admin|Vietnam(VN)|Hanoi|
+123.24.205.160|root|admin|Vietnam(VN)|Hanoi|
+14.169.111.183|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.21.96.63|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.48.135|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.149.92|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.176.50|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.127.162|support|support|Vietnam(VN)|Ho Chi Minh City|
+123.21.205.146|root|admin|Vietnam(VN)|Ho Chi Minh City|
+171.224.129.244|root|admin|Vietnam(VN)|Hanoi|
+123.20.9.63|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.161.66.81|admin|admin@123|Vietnam(VN)|Ho Chi Minh City|
+14.169.173.83|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.24.89.255|guest|guest|Vietnam(VN)|Hanoi|
+117.5.248.32|root|admin|Vietnam(VN)|Hanoi|
+123.24.138.188|root|admin|Vietnam(VN)|Hanoi|
+113.190.219.243|root|admin|Vietnam(VN)|Thái Bình|
+171.224.190.236|root|admin|Vietnam(VN)|Hanoi|
+117.5.41.94|root|admin|Vietnam(VN)|Hanoi|
+14.177.253.223|root|admin|Vietnam(VN)|Hanoi|
+113.190.211.225|root|admin|Vietnam(VN)|Hanoi|
+14.162.117.241|root|admin|Vietnam(VN)|Hanoi|
+117.5.207.28|root|admin|Vietnam(VN)|Hanoi|
+123.21.251.195|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.224.227|root|admin|Vietnam(VN)|Hanoi|
+113.178.32.249|root|admin|Vietnam(VN)|Hanoi|
+123.21.142.166|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.175.107.125|root|admin|Vietnam(VN)|Thái Nguyên|
+117.0.202.229|root|admin|Vietnam(VN)|Hanoi|
+14.172.96.181|admin|1234|Vietnam(VN)|Kien Giang|
+14.164.17.84|root|admin|Vietnam(VN)|Hanoi|
+123.21.171.180|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.134.25|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.173.10.237|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.34.44|support|support|Vietnam(VN)|Ho Chi Minh City|
+123.21.100.3|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.144.86|root|admin|Vietnam(VN)|Hanoi|
+123.21.109.5|admin|admin|Vietnam(VN)|Ho Chi Minh City|
+116.107.39.128|root|admin|Vietnam(VN)|Hanoi|
+14.162.143.253|root|admin|Vietnam(VN)|Hanoi|
+123.21.114.123|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.231.195|user1|user1|Vietnam(VN)|Hanoi|
+118.69.212.244|root|admin|Vietnam(VN)|Hanoi|
+14.177.86.102|admin|1234|Vietnam(VN)|Hanoi|
+113.178.41.159|root|admin|Vietnam(VN)|Hanoi|
+123.24.181.213|root|admin|Vietnam(VN)|Hanoi|
+123.21.227.244|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.21.124.0|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.177.56.210|root|admin|Vietnam(VN)|Hanoi|
+117.1.121.56|root|admin|Vietnam(VN)|Hanoi|
+123.16.229.55|root|admin|Vietnam(VN)|Hanoi|
+117.5.33.135|root|admin|Vietnam(VN)|Hanoi|
+27.72.63.222|ftp|ftp|Vietnam(VN)|Hanoi|
+171.224.94.41|root|admin|Vietnam(VN)|Hanoi|
+118.69.217.132|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.173.1.116|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.24.160.175|operator|operator|Vietnam(VN)|Hanoi|
+113.172.120.40|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.177.73.225|root|admin|Vietnam(VN)|Hanoi|
+113.190.6.94|root|admin|Vietnam(VN)|Hanoi|
+113.172.110.191|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.121.173|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.201.129|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.205.120|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.98.254|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.161.43.154|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+113.172.111.98|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+123.24.185.196|root|admin|Vietnam(VN)|Nam Dinh|
+113.172.153.24|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.116.108|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.92.250|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.152.204|root|admin|Vietnam(VN)|Ho Chi Minh City|
+118.69.225.41|root|12345|Vietnam(VN)|Ho Chi Minh City|
+14.169.181.57|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.191.64|ftp|ftp|Vietnam(VN)|Ho Chi Minh City|
+113.186.40.129|operator|operator|Vietnam(VN)|Hanoi|
+14.161.42.240|admin|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.254.173|admin|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.146.225|root|admin|Vietnam(VN)|Hanoi|
+14.161.24.131|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.215.149|root|admin|Vietnam(VN)|Hanoi|
+123.21.71.95|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.1.207.63|admin|1234|Vietnam(VN)|Hanoi|
+123.24.178.135|root|admin|Vietnam(VN)|Hanoi|
+123.21.120.135|root|admin|Vietnam(VN)|Ho Chi Minh City|
+27.72.82.83|admin|admin|Vietnam(VN)|Hanoi|
+116.118.113.132|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.145.253|root|admin|Vietnam(VN)|Ho Chi Minh City|
+171.224.71.200|root|admin|Vietnam(VN)|Hanoi|
+116.107.0.123|root|admin|Vietnam(VN)|Hanoi|
+113.167.212.5|root|admin|Vietnam(VN)|Vinh|
+123.21.93.38|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.21.129.42|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.159.152|nagios|nagios|Vietnam(VN)|Ho Chi Minh City|
+116.107.53.219|root|admin|Vietnam(VN)|Phu Ly|
+113.172.166.82|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.119.203|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.10.73|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.5.187.219|root|admin|Vietnam(VN)|Hanoi|
+117.2.18.18|ubnt|ubnt|Vietnam(VN)|Cam Ranh|
+113.172.221.240|root|admin|Vietnam(VN)|Hanoi|
+14.169.189.159|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.163.192|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.13.145|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.161.24|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.164.158.187|user1|123456|Vietnam(VN)|Hanoi|
+123.21.201.57|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.167.167|admin|1234|Vietnam(VN)|Hanoi|
+117.5.148.192|root|admin|Vietnam(VN)|Hanoi|
+171.224.106.127|root|admin|Vietnam(VN)|Hanoi|
+14.169.129.20|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.16.15.120|admin|default|Vietnam(VN)|Hanoi|
+123.20.26.130|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.112.186|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.226.246|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.26.178|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.121.217|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.146.30|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.157.162|support|support|Vietnam(VN)|Ho Chi Minh City|
+171.224.88.220|root|admin|Vietnam(VN)|Hanoi|
+113.172.199.240|admin|1234|Vietnam(VN)|Hanoi|
+14.162.218.37|root|admin|Vietnam(VN)|Hanoi|
+113.169.10.107|root|admin|Vietnam(VN)|Hanoi|
+123.21.113.144|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.172.26|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.177.252.5|admin|1234|Vietnam(VN)|Hanoi|
+123.24.205.11|root|admin|Vietnam(VN)|Hanoi|
+14.162.145.127|root|admin|Vietnam(VN)|Hanoi|
+113.172.132.129|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+117.5.191.15|root|admin|Vietnam(VN)|Hanoi|
+123.21.120.29|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.0.157.43|root|admin|Vietnam(VN)|Hanoi|
+113.172.132.152|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.93.91|root|admin|Vietnam(VN)|Ho Chi Minh City|
+116.107.51.194|operator|operator|Vietnam(VN)|Phu Ly|
+14.162.147.86|admin|admin|Vietnam(VN)|Hanoi|
+123.21.146.84|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.177.64.163|root|admin|Vietnam(VN)|Hanoi|
+113.172.193.48|root|admin|Vietnam(VN)|Hanoi|
+14.169.128.82|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.24.189.223|root|admin|Vietnam(VN)|Nam Dinh|
+14.169.165.80|root|admin|Vietnam(VN)|Quang Binh|
+14.162.145.111|root|admin|Vietnam(VN)|Hanoi|
+117.5.245.35|root|admin|Vietnam(VN)|Hanoi|
+113.172.120.212|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.149.164|system|OkwKcECs8qJP2Z|Vietnam(VN)|Ho Chi Minh City|
+123.25.239.31|admin|admin|Vietnam(VN)|Hanoi|
+14.183.56.255|root|admin|Vietnam(VN)|Thanh Pho Ho Chi Minh|
+123.20.121.191|demo|123456|Vietnam(VN)|Ho Chi Minh City|
+117.5.186.246|root|admin|Vietnam(VN)|Hanoi|
+123.21.86.118|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.252.131|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.116.11|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.189.211|root|admin|Vietnam(VN)|Hanoi|
+14.169.106.216|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.161.46.73|ftp|ftp|Vietnam(VN)|Ho Chi Minh City|
+123.16.230.240|ubnt|ubnt|Vietnam(VN)|Hanoi|
+113.190.26.222|root|admin|Vietnam(VN)|Ung Hoa|
+171.224.78.181|admin|default|Vietnam(VN)|Hanoi|
+14.177.255.41|root|admin|Vietnam(VN)|Hanoi|
+123.20.170.161|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.184.183.196|root|admin|Vietnam(VN)|Vinh|
+123.21.75.253|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.165.10|support|support|Vietnam(VN)|Ho Chi Minh City|
+14.162.189.201|root|admin|Vietnam(VN)|Hanoi|
+14.162.173.116|ftp|ftp|Vietnam(VN)|Hanoi|
+117.5.152.48|root|admin|Vietnam(VN)|Hanoi|
+123.21.123.253|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+203.210.131.224|root|admin|Vietnam(VN)|Hanoi|
+14.162.3.4|root|admin|Vietnam(VN)|Hanoi|
+123.16.230.113|admin|1234|Vietnam(VN)|Hanoi|
+117.1.173.62|ftp|ftp|Vietnam(VN)|Hanoi|
+113.172.120.145|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.19.241|root|admin|Vietnam(VN)|Hanoi|
+123.21.200.32|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.89.207|ubnt|ubnt|Vietnam(VN)|Ho Chi Minh City|
+123.16.246.112|root|admin|Vietnam(VN)|Hanoi|
+113.172.230.191|root|admin|Vietnam(VN)|Ho Chi Minh City|
+171.224.130.160|admin|1234|Vietnam(VN)|Hanoi|
+113.177.118.179|nagios|nagios|Vietnam(VN)|Ho Chi Minh City|
+113.190.144.247|root|admin|Vietnam(VN)|Hanoi|
+113.178.36.226|admin|1234|Vietnam(VN)|Hanoi|
+113.190.2.239|root|admin|Vietnam(VN)|Hanoi|
+123.21.147.204|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.183.114|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.158.100|operator|operator|Vietnam(VN)|Hanoi|
+123.21.220.177|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.232.232|admin|1234|Vietnam(VN)|Hanoi|
+123.21.192.180|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.211.97|root|admin|Vietnam(VN)|Hanoi|
+117.5.247.67|root|admin|Vietnam(VN)|Hanoi|
+123.20.26.92|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.143.226|root|admin|Vietnam(VN)|Hanoi|
+123.16.136.180|root|admin|Vietnam(VN)|Nam Dinh|
+123.21.255.162|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+117.1.160.171|root|admin|Vietnam(VN)|Hanoi|
+123.20.80.116|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.5.139.162|root|admin|Vietnam(VN)|Hanoi|
+117.1.168.29|root|admin|Vietnam(VN)|Hanoi|
+123.21.92.55|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.1.189.144|root|admin|Vietnam(VN)|Hanoi|
+14.169.163.16|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.160.12|root|admin|Vietnam(VN)|Ho Chi Minh City|
+58.187.77.252|root|admin|Vietnam(VN)|Hanoi|
+113.183.157.197|admin|default|Vietnam(VN)|Hanoi|
+113.190.36.2|root|admin|Vietnam(VN)|Hanoi|
+117.1.175.87|root|admin|Vietnam(VN)|Hanoi|
+123.16.243.170|root|admin|Vietnam(VN)|Hanoi|
+123.21.79.118|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.162.82.75|root|admin|Vietnam(VN)|Hanoi|
+123.24.164.71|support|support|Vietnam(VN)|Hanoi|
+113.172.129.192|ftp|ftp|Vietnam(VN)|Ho Chi Minh City|
+14.162.171.121|root|admin|Vietnam(VN)|Hanoi|
+117.5.241.2|operator|operator|Vietnam(VN)|Hanoi|
+123.21.186.153|root|admin|Vietnam(VN)|Da Lat|
+14.169.159.197|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.177.123.223|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.176.156.110|root|admin|Vietnam(VN)|Hanoi|
+116.107.67.63|root|admin|Vietnam(VN)|Hanoi|
+118.69.9.70|root|admin|Vietnam(VN)|Da Nang|
+123.24.123.247|root|root|Vietnam(VN)|Hanoi|
+14.170.113.178|root|admin|Vietnam(VN)|Hanoi|
+123.20.167.164|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.240.148|admin|1234|Vietnam(VN)|Hanoi|
+113.163.16.208|root|admin|Vietnam(VN)|Hung Yen|
+14.177.96.154|root|admin|Vietnam(VN)|Hanoi|
+123.20.26.56|root|admin|Vietnam(VN)|Ho Chi Minh City|
+118.69.212.252|root|admin|Vietnam(VN)|Hanoi|
+113.172.192.14|root|admin|Vietnam(VN)|Hanoi|
+113.190.195.98|admin|admin01|Vietnam(VN)|Hanoi|
+113.173.237.12|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.184.186.147|root|admin|Vietnam(VN)|Vinh|
+123.20.170.215|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.1.254.119|root|admin|Vietnam(VN)|Hanoi|
+123.21.73.152|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+116.107.35.172|root|admin|Vietnam(VN)|Hanoi|
+113.190.157.129|root|admin|Vietnam(VN)|Hanoi|
+123.20.158.27|operator|operator|Vietnam(VN)|Ho Chi Minh City|
+14.168.82.250|root|admin|Vietnam(VN)|Hanoi|
+123.20.22.246|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.165.187|admin|1234|Vietnam(VN)|Hanoi|
+116.107.8.48|root|admin|Vietnam(VN)|Hanoi|
+113.161.180.48|system|OkwKcECs8qJP2Z|Vietnam(VN)|Tây Ninh|
+117.1.146.92|root|admin|Vietnam(VN)|Hai Duong|
+117.1.23.225|root|admin|Vietnam(VN)|Hanoi|
+14.169.191.60|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.169.153.75|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+123.21.132.208|root|admin|Vietnam(VN)|Ho Chi Minh City|
+116.107.58.124|admin|1234|Vietnam(VN)|Ha Nam|
+113.172.151.91|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.161.43.187|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.24.65.26|root|admin|Vietnam(VN)|Hanoi|
+123.21.86.255|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.61.170|root|admin|Vietnam(VN)|Hanoi|
+123.20.159.193|admin|admin@123|Vietnam(VN)|Ho Chi Minh City|
+123.21.88.3|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.186.167|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.172.102.190|operator|operator|Vietnam(VN)|Hanoi|
+113.190.216.28|root|admin|Vietnam(VN)|Thái Bình|
+14.162.185.173|admin|1234|Vietnam(VN)|Hanoi|
+123.20.83.79|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.165.180|ftp|ftp|Vietnam(VN)|Ho Chi Minh City|
+14.166.133.222|root|admin|Vietnam(VN)|Hanoi|
+113.172.152.33|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.83.245|admin|1234|Vietnam(VN)|Ho Chi Minh City|
+113.172.255.170|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.21.187.25|root|admin|Vietnam(VN)|Da Lat|
+14.162.153.64|root|admin|Vietnam(VN)|Hanoi|
+113.172.221.81|admin|1234|Vietnam(VN)|Hanoi|
+113.172.151.66|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.0.200.128|root|admin|Vietnam(VN)|Hanoi|
+14.183.153.131|admin|admin01|Vietnam(VN)|Hanoi|
+14.162.24.59|root|admin|Vietnam(VN)|Hanoi|
+14.170.113.40|root|admin|Vietnam(VN)|Hanoi|
+113.177.69.198|root|admin|Vietnam(VN)|Hanoi|
+14.177.214.174|root|admin|Vietnam(VN)|Hanoi|
+123.23.242.137|root|admin|Vietnam(VN)|Hanoi|
+14.169.132.160|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.107.198|ubnt|ubnt|Vietnam(VN)|Ho Chi Minh City|
+123.21.236.139|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.190.93.228|root|admin|Vietnam(VN)|Hanoi|
+123.21.105.105|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.175.157.20|operator|operator|Vietnam(VN)|Hai Duong|
+123.20.161.230|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.20.8.144|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.226.159|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.1.253.56|root|admin|Vietnam(VN)|Hanoi|
+117.2.126.18|ubnt|ubnt|Vietnam(VN)|Da Nang|
+113.172.116.216|root|admin|Vietnam(VN)|Ho Chi Minh City|
+115.78.126.204|system|OkwKcECs8qJP2Z|Vietnam(VN)|Hong Ngu|
+14.162.248.244|root|admin|Vietnam(VN)|Hanoi|
+123.21.65.78|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.163.92.85|root|admin|Vietnam(VN)|Hai Phong|
+113.172.191.179|root|admin|Vietnam(VN)|Ho Chi Minh City|
+123.16.97.84|root|admin|Vietnam(VN)|Hanoi|
+117.1.161.107|root|admin|Vietnam(VN)|Hanoi|
+123.20.114.15|root|admin|Vietnam(VN)|Ho Chi Minh City|
+117.1.155.18|root|admin|Vietnam(VN)|Thái Bình|
+123.16.68.199|root|admin|Vietnam(VN)|Hanoi|
+123.24.190.119|root|admin|Vietnam(VN)|Nam Dinh|
+14.169.180.223|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.169.62.25|root|admin|Vietnam(VN)|Hanoi|
+123.21.168.93|root|admin|Vietnam(VN)|Ho Chi Minh City|
+14.162.157.47|root|admin|Vietnam(VN)|Hanoi|
+123.24.188.60|root|admin|Vietnam(VN)|Nam Dinh|
+14.177.251.225|root|admin|Vietnam(VN)|Hanoi|
+113.190.132.105|root|admin|Vietnam(VN)|Hanoi|
+14.177.85.214|ftp|ftp|Vietnam(VN)|Hanoi|
+14.177.93.28|root|admin|Vietnam(VN)|Hanoi|
+113.178.34.193|root|admin|Vietnam(VN)|Hanoi|
+113.172.128.168|admin|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.152.46|root|admin|Vietnam(VN)|Ho Chi Minh City|
+113.172.199.133|root|admin|Vietnam(VN)|Hanoi|

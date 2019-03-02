@@ -1,0 +1,763 @@
+192.169.193.37|upload|upload|United States(US)|Scottsdale|
+173.197.219.109|root|root|United States(US)|Los Angeles|
+74.7.41.94|installer|installer|United States(US)|Chicago|
+204.0.52.188|admin|admin|United States(US)|Englewood|
+184.182.240.141|support|support|United States(US)|Scottsdale|
+96.61.19.168|support|support|United States(US)|Saint Marys|
+204.0.52.65|admin|admin|United States(US)|Englewood|
+64.202.131.103|cisco||United States(US)|Miami|
+71.209.135.132|support|support|United States(US)|Cottonwood|
+65.98.64.124|test|password123|United States(US)|Secaucus|
+104.236.102.142|listd|54e172662|United States(US)|Clifton|
+166.130.37.64|eclipse|eclipse|United States(US)|Atlanta|
+72.210.252.142|admin|admin|United States(US)|Taylor|
+45.40.182.89|mindy|mindy|United States(US)|Scottsdale|
+47.47.33.101|admin|admin|United States(US)|Saint Louis|
+65.98.57.150|test|password123|United States(US)|Secaucus|
+24.245.86.166|service|service42|United States(US)|Sherman|
+4.15.223.203|music|music|United States(US)|Fort Lauderdale|
+24.247.182.129|admin|chart3rmdu|United States(US)|Holland|
+38.127.90.12|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+72.210.252.155|admin|admin|United States(US)|Taylor|
+70.166.38.75|admin|admin|United States(US)|Herndon|
+184.54.102.255|rj1tn3tw0rks|n3xus1t|United States(US)|Cincinnati|
+45.40.182.39|mindy|mindy|United States(US)|Scottsdale|
+38.127.89.13|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+50.108.118.238|support|support|United States(US)|Muskegon|
+75.114.236.158|support|support|United States(US)|Farmington|
+72.210.252.146|admin|admin|United States(US)|Taylor|
+70.166.38.76|admin|admin|United States(US)|Herndon|
+99.122.154.1|root|welc0me|United States(US)|Pompano Beach|
+45.40.183.87|mindy|mindy|United States(US)|Scottsdale|
+50.197.139.186|service|service42|United States(US)|San Jose|
+70.56.105.177|service|service42|United States(US)|Salt Lake City|
+174.75.238.83|admin|admin|United States(US)|Sagaponack|
+65.98.74.91|test|password123|United States(US)|Secaucus|
+72.223.168.82|admin|admin|United States(US)|Taylor|
+184.176.166.17|admin|admin|United States(US)|Scottsdale|
+107.181.162.103|ftptest|test123|United States(US)|Atlanta|
+96.43.91.29|support|support|United States(US)|Canyon Country|
+64.129.229.206|root|@#$%^&*!()|United States(US)|Las Vegas|
+98.181.99.203|admin|admin|United States(US)|El Paso|
+38.127.89.37|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+98.181.99.216|admin|admin|United States(US)|El Paso|
+98.161.151.182|admin|admin|United States(US)|El Paso|
+74.47.122.107|support|support|United States(US)|Dallas|
+174.105.233.82|admin|chart3rmdu|United States(US)|Waverly|
+45.40.182.49|mindy|mindy|United States(US)|Scottsdale|
+34.210.248.92|tomcat7|tomcat7|United States(US)|Boardman|
+45.40.183.199|mindy|mindy|United States(US)|Scottsdale|
+184.176.166.27|admin|admin|United States(US)|Scottsdale|
+173.15.228.153|admin|default|United States(US)|Trenton|
+98.181.99.206|admin|admin|United States(US)|El Paso|
+50.34.205.53|support|support|United States(US)|Arlington|
+38.127.88.38|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+98.161.151.167|admin|admin|United States(US)|El Paso|
+166.130.57.92|admin|root|United States(US)|Atlanta|
+38.127.89.234|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+216.21.17.1|arun|password|United States(US)|Salt Lake City|
+72.24.32.35|operator|operator|United States(US)|New York|
+64.95.166.25|arun|password|United States(US)|Woodstock|
+166.130.152.200|user|user|United States(US)|Atlanta|
+97.122.244.61|support|support|United States(US)|Denver|
+74.213.63.78|service|service42|United States(US)|Houston|
+50.42.80.72|support|support|United States(US)|Cookeville|
+71.223.152.11|support|support|United States(US)|Mesa|
+64.50.170.26|ftpuser|copytechnet2013|United States(US)|Anaheim|
+216.144.238.2|service|service42|United States(US)|South Pasadena|
+45.40.183.207|mindy|mindy|United States(US)|Scottsdale|
+96.95.111.93|admin|admin|United States(US)|Hoffman Estates|
+96.66.35.69|operator|password|United States(US)|Wixom|
+70.166.38.92|admin|admin|United States(US)|Herndon|
+173.164.33.177|gary|gary|United States(US)|Trenton|
+104.193.100.79|admin|admin|United States(US)|Pecos|
+69.8.54.1|root|abc123|United States(US)|Sulphur|
+68.64.230.230|root|@#$%^&*!()|United States(US)|El Paso|
+209.112.238.72|system|OkwKcECs8qJP2Z|United States(US)|Brenham|
+72.43.222.34|admin|1234|United States(US)|Cortland|
+38.21.38.6|service|service42|United States(US)|Colbert|
+98.161.151.181|admin|admin|United States(US)|El Paso|
+66.182.214.227|system|OkwKcECs8qJP2Z|United States(US)|Keller|
+192.241.166.97|ftptest|test123|United States(US)|New York|
+72.250.216.65|ftp|ftp|United States(US)|Riverton|
+66.118.196.49|service|service42|United States(US)|Durango|
+50.224.135.213|root|@#$%^&*!|United States(US)|Pleasanton|
+73.139.1.186|ubnt|ubnt|United States(US)|Fort Lauderdale|
+45.40.182.5|mindy|mindy|United States(US)|Scottsdale|
+216.144.225.14|super|super1234|United States(US)|Los Angeles|
+66.220.247.27|support|support|United States(US)|Hartland|
+24.151.212.79|admin|password|United States(US)|Manchester|
+45.40.182.229|mindy|mindy|United States(US)|Scottsdale|
+66.154.124.54|support|support|United States(US)|Los Angeles|
+65.98.64.102|test|password123|United States(US)|Secaucus|
+63.231.156.12|support|support|United States(US)|Minneapolis|
+75.168.107.147|support|support|United States(US)|Saint Paul|
+173.235.82.102|mac|mac|United States(US)|Pearl|
+38.127.90.185|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+163.228.99.158|a1|a1|United States(US)|Saint Paul|
+174.76.35.25|admin|admin|United States(US)|Sagaponack|
+155.254.9.114|system|OkwKcECs8qJP2Z|United States(US)|Cardwell|
+65.98.74.71|test|password123|United States(US)|Secaucus|
+162.155.178.75|service|service42|United States(US)|Enon|
+155.94.195.98|support|support|United States(US)|Los Angeles|
+154.53.200.198|service|service42|United States(US)|Boston|
+74.208.147.202|test|123456|United States(US)|Wayne|
+38.127.89.24|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+64.246.97.43|root|@#$%^&*!()|United States(US)|Luckey|
+24.123.32.54|rancid|Ad6z8Reo|United States(US)|Stoneboro|
+12.45.190.190|admin|default|United States(US)|Houston|
+32.213.126.160|root|changeme|United States(US)|Seymour|
+50.247.202.129|ftp|ftp|United States(US)|Burlington|
+204.0.52.107|admin|admin|United States(US)|Englewood|
+72.43.108.202|root|admin|United States(US)|New York|
+69.5.149.186|service|service42|United States(US)|Ankeny|
+166.248.81.139|admin|12wsDE34|United States(US)|Atlanta|
+72.223.168.77|admin|admin|United States(US)|Taylor|
+98.161.151.179|admin|admin|United States(US)|El Paso|
+65.98.64.100|test|password123|United States(US)|Secaucus|
+24.238.7.202|support|support|United States(US)|Miami|
+216.161.243.34|support|support|United States(US)|Seattle|
+72.210.252.151|admin|admin|United States(US)|Taylor|
+136.228.128.125|admin|0l0ctyQh243O63uD|United States(US)|Nashua|
+204.0.52.111|admin|admin|United States(US)|Englewood|
+66.118.196.45|service|service42|United States(US)|Durango|
+38.127.89.19|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+38.127.90.189|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+104.169.141.152|support|support|United States(US)|Logan|
+104.236.11.126|ftp|password|United States(US)|Clifton|
+155.229.71.214|root|12345|United States(US)|Pleasanton|
+24.245.80.176|lindsay|lastmile|United States(US)|Sherman|
+173.95.56.34|admin|default|United States(US)|Thomasville|
+184.16.174.40|support|support|United States(US)|Richmond|
+98.161.151.187|admin|admin|United States(US)|El Paso|
+75.162.80.194|support|support|United States(US)|Layton|
+68.116.100.10|printer|printer|United States(US)|Coos Bay|
+24.51.47.8|root|Deadstar!#%|United States(US)|Alma|
+216.54.100.66|root|@#$%^&*!()|United States(US)|Newport News|
+50.0.164.60|support|support|United States(US)|San Francisco|
+208.53.45.68|admin|password|United States(US)|Riverton|
+45.40.183.43|mindy|mindy|United States(US)|Scottsdale|
+66.220.225.18|support|support|United States(US)|Cuttingsville|
+50.207.119.14|admin|default|United States(US)|Dundalk|
+69.38.208.174|support|support|United States(US)|San Francisco|
+135.84.203.232|supervisor|supervisor|United States(US)|Jackson|
+8.41.192.177|arun|password|United States(US)|Philadelphia|
+216.163.88.8|support|support|United States(US)|Monrovia|
+24.247.181.54|admin|chart3rmdu|United States(US)|Zeeland|
+74.94.143.150|root|@#$%^&*!|United States(US)|Chicago|
+24.35.148.69|user|user|United States(US)|Atlanta|
+50.62.214.160|svn|zoondia|United States(US)|Scottsdale|
+139.60.77.237|system|OkwKcECs8qJP2Z|United States(US)|Pampa|
+173.14.236.81|root|@#$%^&*!()|United States(US)|Atlanta|
+74.208.147.113|test|password|United States(US)|Wayne|
+108.190.43.127|support|support|United States(US)|Lakeland|
+184.168.125.119|bryan|password|United States(US)|Scottsdale|
+4.15.31.170|arun|password|United States(US)|New York|
+166.142.140.220|guest|guest|United States(US)|Atlanta|
+72.43.103.26|root|admin|United States(US)|New York|
+174.18.35.162|support|support|United States(US)|Phoenix|
+199.244.51.162|test|q1w2e3r4t5|United States(US)|Los Angeles|
+163.182.132.110|support|support|United States(US)|East Rutherford|
+100.40.55.83|service|service42|United States(US)|North Providence|
+100.10.44.181|root|@#$%^&*!()|United States(US)|Coventry|
+216.144.224.138|admin|admin|United States(US)|Los Angeles|
+8.41.195.254|arun|password|United States(US)|Warrington|
+204.0.52.15|admin|admin|United States(US)|Englewood|
+104.238.83.196|nobody|nobody|United States(US)|Scottsdale|
+65.98.64.103|test|password123|United States(US)|Secaucus|
+205.209.228.95|phpmy|phpmy|United States(US)|Abilene|
+75.19.28.65|root|Pa55word|United States(US)|Fort Worth|
+172.79.84.110|support|support|United States(US)|Portage|
+209.152.115.75|mother|fucker|United States(US)|Fairfield|
+24.247.182.255|admin|chart3rmdu|United States(US)|Holland|
+45.40.183.150|mindy|mindy|United States(US)|Scottsdale|
+98.181.99.210|admin|admin|United States(US)|El Paso|
+108.170.108.156|mailman|mailman|United States(US)|Fairfield|
+166.140.171.86|debian|temppwd|United States(US)|Atlanta|
+98.161.151.186|admin|admin|United States(US)|El Paso|
+72.223.168.94|admin|admin|United States(US)|Taylor|
+24.249.48.136|system|OkwKcECs8qJP2Z|United States(US)|Great Bend|
+64.16.158.121|admin|default|United States(US)|Miami|
+75.114.236.8|support|support|United States(US)|Farmington|
+184.4.195.19|admin|admin|United States(US)|Maitland|
+38.127.89.25|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+192.3.239.193|testuser|testuser|United States(US)|Buffalo|
+75.144.103.125|music|music|United States(US)|Farmington|
+74.40.166.4|support|support|United States(US)|Cookeville|
+8.225.194.109|arun|password|United States(US)|Philadelphia|
+66.220.247.61|support|support|United States(US)|Hartland|
+172.83.138.45|admin|123456|United States(US)|Ontario|
+70.166.38.87|admin|admin|United States(US)|Herndon|
+72.226.102.151|service|service42|United States(US)|New York|
+66.220.245.190|support|support|United States(US)|Woodstock|
+75.68.80.254|admin|1234|United States(US)|Gloucester|
+24.178.112.86|service|service42|United States(US)|Lawrenceville|
+64.50.170.214|ftpuser|copytechnet2013|United States(US)|Anaheim|
+96.68.183.57|admin|0l0ctyQh243O63uD|United States(US)|San Mateo|
+174.75.238.91|admin|admin|United States(US)|Sagaponack|
+98.161.151.191|admin|admin|United States(US)|El Paso|
+108.170.108.155|mailman|mailman|United States(US)|Fairfield|
+108.31.135.45|admin|default|United States(US)|Annapolis Junction|
+45.40.183.240|mindy|mindy|United States(US)|Scottsdale|
+216.18.255.57|linktechs|secur1ty|United States(US)|Byron Center|
+50.106.215.249|support|support|United States(US)|Bloomington|
+8.41.205.81|arun|password|United States(US)|Harrison|
+74.46.23.190|support|support|United States(US)|Shickshinny|
+75.145.216.83|system|OkwKcECs8qJP2Z|United States(US)|Jackson|
+97.126.4.141|support|support|United States(US)|Renton|
+75.162.222.72|support|support|United States(US)|Ogden|
+166.148.202.92|admin|12wsDE34|United States(US)|Atlanta|
+38.127.89.66|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+65.98.65.89|test|password123|United States(US)|Secaucus|
+104.187.106.107|root|admin|United States(US)|Albany|
+97.68.17.66|Admin|Admin|United States(US)|Clermont|
+45.40.182.103|mindy|mindy70.166.38.78|United States(US)|Scottsdale|
+12.7.109.120|root|12gauge|United States(US)|Crystal City|
+65.211.112.247|admin|1234|United States(US)|Bayport|
+172.78.130.250|support|support|United States(US)|Bainbridge|
+50.232.30.177|ftp|ftp|United States(US)|Baytown|
+204.0.52.183|admin|admin|United States(US)|Englewood|
+47.49.47.34|root|@#$%^&*!70.20.25.118|United States(US)|Madison|
+208.84.57.100|service|service42|United States(US)|Holyoke|
+72.210.252.154|admin|admin|United States(US)|Taylor|
+67.207.86.107|tester|tester|United States(US)|North Bergen|
+174.28.249.216|support|support|United States(US)|Albuquerque|
+50.108.95.46|support|support|United States(US)|Fowler|
+38.127.89.108|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+52.202.109.228|tomcat7|tomcat7|United States(US)|Ashburn|
+172.83.140.34|system|OkwKcECs8qJP2Z|United States(US)|Ontario|
+38.127.89.38|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+104.241.229.105|ubnt|ubnt|United States(US)|Altus|
+184.176.166.16|admin|admin|United States(US)|Scottsdale|
+65.152.237.149|system|OkwKcECs8qJP2Z|United States(US)|Sheldon|
+216.21.162.200|service|service42|United States(US)|Salt Lake City|
+98.161.151.168|admin|admin|United States(US)|El Paso|
+174.26.66.134|support|support|United States(US)|Glendale|
+24.247.182.237|admin|chart3rmdu|United States(US)|Holland|
+71.36.20.2|support|support|United States(US)|Boise|
+75.77.234.210|admin|default|United States(US)|Alexander City|
+172.77.140.6|support|support|United States(US)|Ostrander|
+104.193.239.48|system|OkwKcECs8qJP2Z|United States(US)|Othello|
+50.196.185.180|support|support|United States(US)|Menlo Park|
+97.65.205.150|admin|0l0ctyQh243O63uD|United States(US)|Renton|
+162.252.150.37|service|service42|United States(US)|Washington|
+184.182.240.67|support|support|United States(US)|Scottsdale|
+50.110.56.197|support|support|United States(US)|Barboursville|
+166.130.105.109|eclipse|eclipse|United States(US)|Atlanta|
+50.105.185.48|support|support|United States(US)|Chilton|
+66.118.196.121|service|service42|United States(US)|Durango|
+71.177.88.17|root|@#$%^&*!|United States(US)|Torrance|
+184.182.240.81|support|support|United States(US)|Scottsdale|
+184.60.172.90|support|support|United States(US)|Cincinnati|
+184.182.240.217|support|support|United States(US)|Scottsdale|
+174.20.48.124|support|support|United States(US)|Plymouth|
+69.198.85.122|admin|default|United States(US)|Los Angeles|
+216.106.132.11|super|super|United States(US)|Storrs Mansfield|
+38.127.89.4|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+166.142.145.20|guest|guest|United States(US)|Atlanta|
+38.127.89.58|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+69.3.106.72|root|12345|United States(US)|Warwick|
+65.98.64.106|test|password123|United States(US)|Secaucus|
+38.127.89.185|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+66.154.121.6|support|support|United States(US)|Los Angeles|
+216.144.230.234|admin|admin|United States(US)|Los Angeles|
+73.34.52.177|service|service42|United States(US)|Denver|
+96.68.168.201|service|service42|United States(US)|Menlo Park|
+65.98.64.117|test|password123|United States(US)|Secaucus|
+70.166.38.85|admin|admin|United States(US)|Herndon|
+174.75.238.85|admin|admin|United States(US)|Sagaponack|
+74.254.131.37|temp1|temp1|United States(US)|Houston|
+38.127.88.19|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+65.98.74.83|test|password123|United States(US)|Secaucus|
+96.57.125.42|webmaster|webmaster|United States(US)|Canyon Country|
+199.21.106.189|service|service42|United States(US)|Mountainair|
+24.249.199.19|support|support|United States(US)|Destin|
+73.248.81.61|admin|admin|United States(US)|Forked River|
+38.127.89.47|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+166.130.190.172|admin|root|United States(US)|Atlanta|
+8.41.207.2|arun|password|United States(US)|Pennsauken|
+13.68.29.148|tomcat|tomcat|United States(US)|Boydton|
+50.103.107.110|support|support|United States(US)|Normal|
+155.94.197.2|support|support|United States(US)|Los Angeles|
+73.54.14.187|RPM|RPM|United States(US)|Naples|
+104.235.61.101|support|support|United States(US)|Rochelle|
+71.11.206.125|service|service42|United States(US)|Fort Worth|
+75.168.75.9|support|support|United States(US)|Saint Paul|
+216.144.233.118|super|super1234|United States(US)|Los Angeles|
+38.127.89.103|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+75.170.101.147|support|support|United States(US)|Omaha|
+38.127.89.133|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+75.99.196.251|admin|default|United States(US)|Bridgeport|
+45.40.166.164|mindy|mindy|United States(US)|Scottsdale|
+50.34.147.26|support|support|United States(US)|Anacortes|
+24.39.144.162|super|super|United States(US)|New York|
+24.247.182.169|admin|chart3rmdu|United States(US)|Holland|
+97.122.172.29|support|support|United States(US)|Denver|
+12.180.92.200|admin|admin01|United States(US)|Lawrenceburg|
+216.67.243.98|test|password123|United States(US)|Secaucus|
+204.0.52.191|admin|admin|United States(US)|Englewood|
+12.229.217.226|system|OkwKcECs8qJP2Z|United States(US)|Lawrenceburg|
+24.248.207.7|system|OkwKcECs8qJP2Z|United States(US)|Fayetteville|
+50.122.210.3|support|support|United States(US)|Rochester|
+52.124.6.146|service|service42|United States(US)|Stowe|
+24.247.182.172|admin|chart3rmdu|United States(US)|Holland|
+98.161.151.166|admin|admin|United States(US)|El Paso|
+204.0.52.175|admin|admin|United States(US)|Englewood|
+173.78.254.82|root|@#$%^&*!()|United States(US)|Tampa|
+207.237.202.10|nuucp|nuucp|United States(US)|Waukegan|
+68.169.150.148|admin|default|United States(US)|Chattanooga|
+69.4.51.98|rsync|123456|United States(US)|Kerrville|
+140.190.54.187|service|service42|United States(US)|Winona|
+174.27.12.180|support|support|United States(US)|Mountain Home|
+167.88.85.23|service|service42|United States(US)|Miami|
+71.189.47.2|itsupport|itsupport|United States(US)|Carson|
+24.178.104.114|service|service42|United States(US)|Lawrenceville|
+70.166.38.82|admin|admin|United States(US)|Herndon|
+65.98.64.115|test|password123|United States(US)|Secaucus|
+104.169.70.251|support|support|United States(US)|Albany|
+72.210.252.147|admin|admin|United States(US)|Taylor|
+184.182.240.133|support|support|United States(US)|Scottsdale|
+142.54.81.234|root|@#$%^&*!|United States(US)|Winona|
+166.154.35.46|guest|guest|United States(US)|Atlanta|
+199.21.107.116|Admin|Admin|United States(US)|Moriarty|
+184.182.240.88|support|support|United States(US)|Scottsdale|
+8.41.197.129|arun|password|United States(US)|Los Angeles|
+74.140.160.33|service|service42|United States(US)|Dayton|
+216.67.243.97|test|password123|United States(US)|Secaucus|
+71.209.226.233|admin|admin|United States(US)|Glendale|
+216.67.243.100|test|password123|United States(US)|Secaucus|
+98.161.151.161|admin|admin|United States(US)|El Paso|
+206.217.1.20|lindsay|lastmile|United States(US)|Rock Springs|
+31.220.56.86|demo|demo123|United States(US)|Alma|
+162.243.42.117|ftptest|test123|United States(US)|New York|
+67.161.9.26|admin|1234|United States(US)|Sunnyvale|
+38.127.90.9|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+174.17.167.189|support|support|United States(US)|Phoenix|
+50.235.35.99|root|0l0ctyQh243O63uD|United States(US)|Baytown|
+65.98.65.76|test|password123|United States(US)|Secaucus|
+184.168.125.118|bryan|password|United States(US)|Scottsdale|
+173.197.210.62|admin|default|United States(US)|San Luis|
+38.127.89.190|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+75.167.58.137|support|support|United States(US)|Gilbert|
+76.3.126.59|admin|admin|United States(US)|Manson|
+199.250.144.46|support|support|United States(US)|Hogansville|
+66.118.204.189|service|service42|United States(US)|Durango|
+66.220.237.171|support|support|United States(US)|East Corinth|
+50.40.66.108|support|support|United States(US)|Pekin|
+162.253.219.14|xerox|xerox|United States(US)|Denison|
+166.130.82.176|eclipse|eclipse|United States(US)|Atlanta|
+97.68.252.218|service|service42|United States(US)|Orlando|
+67.231.230.3|support|support|United States(US)|Proctor|
+207.91.128.46|PlcmSpIp|PlcmSpIp|United States(US)|Houston|
+184.105.133.250|service|service42|United States(US)|Gilroy|
+38.127.90.27|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+45.40.182.247|mindy|mindy|United States(US)|Scottsdale|
+108.170.108.157|mailman|mailman|United States(US)|Fairfield|
+72.210.252.145|admin|admin|United States(US)|Taylor|
+98.161.151.190|admin|admin|United States(US)|El Paso|
+192.169.197.200|test|123456|United States(US)|Scottsdale|
+72.210.252.149|admin|admin|United States(US)|Taylor|
+38.127.89.237|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+45.40.183.141|mindy|mindy|United States(US)|Scottsdale|
+50.107.186.203|support|support|United States(US)|Orangeville|
+50.197.42.233|ncuser|ncuser|United States(US)|Pittsburgh|
+72.80.26.149|testuser|testuser|United States(US)|Montrose|
+74.192.49.98|ubnt|ubnt|United States(US)|Amarillo|
+8.41.196.89|arun|password|United States(US)|Colmar|
+50.246.4.189|test|123456|United States(US)|Atlanta|
+204.0.52.142|admin|admin|United States(US)|Englewood|
+8.41.196.137|arun|password|United States(US)|Colmar|
+38.127.89.113|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+216.74.232.202|webmaster|webmaster|United States(US)|Oklahoma City|
+184.182.240.74|support|support|United States(US)|Scottsdale|
+24.146.249.89|support|support|United States(US)|Fairfield|
+72.210.252.156|admin|admin|United States(US)|Taylor|
+38.127.90.8|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+66.118.193.9|service|service42|United States(US)|Durango|
+75.148.179.170|ftpuser|asteriskftp|United States(US)|Jackson|
+50.237.254.222|admin|password|United States(US)|Clovis|
+72.223.168.80|admin|admin|United States(US)|Taylor|
+24.248.227.104|ubnt|ubnt|United States(US)|Salina|
+66.109.30.139|PlcmSpIp|PlcmSpIp|United States(US)|Brooklyn|
+70.166.38.78|admin|admin|United States(US)|Herndon|
+216.158.241.35|installer|installer|United States(US)|Taos|
+66.182.84.165|ftp|ftp|United States(US)|Pleasant Grove|
+216.67.10.203|support|support|United States(US)|Eielson Afb|
+47.154.227.89|support|support|United States(US)|Malibu|
+184.176.166.26|ubnt|ubnt|United States(US)|Scottsdale|
+8.41.202.29|arun|password|United States(US)|Flemington|
+96.8.215.219|root|12345|United States(US)|Boerne|
+205.201.204.33|service|service42|United States(US)|Durango|
+38.127.89.16|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+52.144.107.142|service|service42|United States(US)|Weatherford|
+98.161.151.178|admin|admin|United States(US)|El Paso|
+45.40.183.9|mindy|mindy|United States(US)|Scottsdale|
+104.218.188.62|user|user|United States(US)|Northridge|
+184.168.116.130|support|support123|United States(US)|Scottsdale|
+199.201.83.212|Admin|Admin|United States(US)|Crowley|
+104.240.42.135|support|support|United States(US)|Window Rock|
+184.168.27.149|mindy|mindy|United States(US)|Scottsdale|
+38.127.89.84|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+38.127.89.42|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+67.55.180.67|manager|friend|United States(US)|West Des Moines|
+108.2.205.10|monitor|monitor|United States(US)|Willow Grove|
+139.60.60.143|service|service42|United States(US)|Rock Springs|
+174.78.248.205|judy|judy|United States(US)|Roanoke|
+69.129.13.170|support|support|United States(US)|Butler|
+50.54.61.246|support|support|United States(US)|Clyde|
+216.67.30.49|service|service42|United States(US)|Anchorage|
+166.164.125.149|admin|12wsDE34|United States(US)|Atlanta|
+204.10.23.10|admin|P@ssword1|United States(US)|El Segundo|
+38.127.90.124|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+38.127.88.15|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+64.95.166.17|arun|password|United States(US)|Woodstock|
+104.193.237.52|service|service42|United States(US)|Moses Lake|
+50.34.185.182|support|support|United States(US)|Marysville|
+12.161.215.109|installer|installer|United States(US)|Pittsburgh|
+50.52.127.118|support|support|United States(US)|Rosalia|
+204.0.52.180|admin|admin|United States(US)|Englewood|
+72.210.252.135|admin|admin|United States(US)|Taylor|
+24.148.8.74|admin|password|United States(US)|Chicago|
+199.193.159.179|support|support|United States(US)|San Francisco|
+104.235.92.171|support|support|United States(US)|Rockton|
+24.247.181.235|admin|chart3rmdu|United States(US)|Holland|
+66.119.59.223|ftpuser|asteriskftp|United States(US)|Cheyenne|
+24.245.88.107|service|service42|United States(US)|Sherman|
+45.40.182.188|mindy|mindy|United States(US)|Scottsdale|
+24.247.182.173|admin|chart3rmdu|United States(US)|Holland|
+75.149.194.137|rj1tn3tw0rks|n3xus1t|United States(US)|Jackson|
+173.0.103.38|admin|sp00kyjean418|United States(US)|Burgess|
+98.161.151.164|admin|admin|United States(US)|El Paso|
+69.1.54.82|administrator|Amx1234!|United States(US)|Madison|
+67.0.193.15|support|support|United States(US)|Albuquerque|
+184.105.226.247|service|service42|United States(US)|San Francisco|
+45.40.183.178|mindy|mindy|United States(US)|Scottsdale|
+173.167.46.61|admin|default|United States(US)|Madison|
+66.165.166.221|ftpuser|asteriskftp|United States(US)|Hialeah|
+38.127.89.56|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+184.176.166.14|admin|admin|United States(US)|Scottsdale|
+98.161.151.189|admin|admin|United States(US)|El Paso|
+173.14.209.173|root|@#$%^&*!()|United States(US)|Atlanta|
+98.161.151.174|admin|admin|United States(US)|El Paso|
+38.127.90.5|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+206.127.140.199|root|@#$%^&*!|United States(US)|Beaver|
+65.98.74.74|test|password123|United States(US)|Secaucus|
+192.198.208.106|test|test|United States(US)|Rancho Cordova|
+167.142.209.184|manager|friend|United States(US)|Zearing|
+98.161.151.177|admin|admin|United States(US)|El Paso|
+8.41.192.169|arun|password|United States(US)|Philadelphia|
+24.199.165.138|newuser|newuser123|United States(US)|Greensboro|
+63.224.186.5|support|support|United States(US)|Ankeny|
+38.127.89.85|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+65.98.65.87|test|password123|United States(US)|Secaucus|
+184.176.166.23|admin|admin|United States(US)|Scottsdale|
+72.54.171.236|root|@#$%^&*!|United States(US)|Grand Prairie|
+98.161.151.163|admin|admin|United States(US)|El Paso|
+69.11.148.146|support|support|United States(US)|Troy|
+98.161.151.160|admin|admin|United States(US)|El Paso|
+184.176.166.7|admin|admin|United States(US)|Scottsdale|
+174.76.35.28|admin|admin|United States(US)|Sagaponack|
+12.193.119.228|root|@#$%^&*!()|United States(US)|Lawrenceburg|
+45.40.182.96|mindy|mindy|United States(US)|Scottsdale|
+64.37.29.40|support|support|United States(US)|Hugo|
+50.109.107.198|support|support|United States(US)|Tuscola|
+97.77.157.242|root|@#$%^&*!()|United States(US)|El Paso|
+24.43.243.84|PlcmSpIp|PlcmSpIp|United States(US)|San Diego|
+52.6.196.248|tomcat7|tomcat7|United States(US)|Ashburn|
+18.211.44.153|tomcat7|tomcat7|United States(US)|Ashburn|
+66.118.203.133|service|service42|United States(US)|Durango|
+64.94.34.50|arun|password|United States(US)|Anaheim|
+71.174.75.11|oracles|ClepSi|United States(US)|Boylston|
+104.235.45.25|support|support|United States(US)|Rochelle|
+166.130.14.88|eclipse|eclipse|United States(US)|Atlanta|
+204.98.124.50|ubnt|ubnt|United States(US)|El Segundo|
+64.95.166.254|arun|password|United States(US)|Woodstock|
+70.166.38.89|admin|admin|United States(US)|Herndon|
+45.40.183.76|mindy|mindy|United States(US)|Scottsdale|
+65.98.64.118|test|password123|United States(US)|Secaucus|
+45.40.182.162|mindy|mindy|United States(US)|Scottsdale|
+63.152.30.24|support|support|United States(US)|Mount Vernon|
+173.165.143.157|service|service42|United States(US)|Salt Lake City|
+65.98.57.149|test|password123|United States(US)|Secaucus|
+24.249.199.9|support|support|United States(US)|Destin|
+45.40.182.213|mindy|mindy|United States(US)|Scottsdale|
+204.0.52.143|admin|admin|United States(US)|Englewood|
+162.211.131.102|system|OkwKcECs8qJP2Z|United States(US)|West Yellowstone|
+104.193.237.132|system|OkwKcECs8qJP2Z|United States(US)|Moses Lake|
+67.1.151.222|support|support|United States(US)|Tucson|
+66.118.208.5|service|service42|United States(US)|Mckinney|
+45.53.199.60|support|support|United States(US)|Jackson|
+173.15.232.209|root|@#$%^&*!|United States(US)|Trenton|
+45.40.182.12|mindy|mindy|United States(US)|Scottsdale|
+98.181.99.217|admin|admin|United States(US)|El Paso|
+184.176.166.24|admin|admin|United States(US)|Scottsdale|
+72.210.252.144|admin|admin|United States(US)|Taylor|
+208.84.154.61|ftptest|test123|United States(US)|Atlanta|
+75.172.17.120|support|support|United States(US)|Puyallup|
+50.44.123.255|support|support|United States(US)|Bloomington|
+204.0.52.151|admin|admin209.152.115.75|United States(US)|Englewood|
+173.95.52.188|system|OkwKcECs8qJP2Z|United States(US)|Charlotte|
+173.23.237.7|support|support|United States(US)|Melvin|
+74.208.147.27|test|password|United States(US)|Wayne|
+75.144.67.33|admin|default|United States(US)|Detroit|
+216.67.243.125|test|password123|United States(US)|Secaucus|
+67.159.129.22|support|support|United States(US)|Citrus Heights|
+74.36.149.240|support|support|United States(US)|Birnamwood|
+74.254.131.41|temp1|temp1|United States(US)|Houston|
+72.226.103.74|service|service42|United States(US)|New York|
+67.55.180.92|manager|friend|United States(US)|West Des Moines|
+204.0.52.11|admin|admin|United States(US)|Englewood|
+98.161.151.185|admin|admin|United States(US)|El Paso|
+208.84.57.205|service|service42|United States(US)|Holyoke|
+184.98.53.17|support|support|United States(US)|Phoenix|
+154.53.200.110|admin|0l0ctyQh243O63uD|United States(US)|Boston|
+45.40.183.55|mindy|mindy|United States(US)|Scottsdale|
+72.223.168.90|admin|admin|United States(US)|Taylor|
+50.36.122.178|support|support|United States(US)|Coldwater|
+45.40.183.216|mindy|mindy|United States(US)|Scottsdale|
+24.113.169.148|service|service42|United States(US)|Port Townsend|
+72.44.70.134|support|support|United States(US)|Canyon Country|
+162.155.10.150|system|OkwKcECs8qJP2Z|United States(US)|Brook Park|
+38.75.18.168|service|service42|United States(US)|San Fernando|
+205.201.219.130|Admin|Admin|United States(US)|Durango|
+155.94.195.102|support|support|United States(US)|Los Angeles|
+174.27.2.53|support|support|United States(US)|Boise|
+72.223.168.68|admin|admin|United States(US)|Taylor|
+198.12.151.174|test|123456|United States(US)|Scottsdale|
+65.98.64.105|test|password123|United States(US)|Secaucus|
+98.161.151.180|admin|admin|United States(US)|El Paso|
+104.235.113.113|support|support|United States(US)|Belvidere|
+45.40.183.144|mindy|mindy|United States(US)|Scottsdale|
+108.190.151.157|pi|raspberry|United States(US)|Haines City|
+184.98.79.75|support|support|United States(US)|Phoenix|
+98.161.151.165|admin|admin|United States(US)|El Paso|
+97.120.30.126|support|support|United States(US)|Bend|
+66.118.195.194|service|service42|United States(US)|Norwood|
+162.216.202.142|admin|123456|United States(US)|Vicksburg|
+174.127.9.69|test|test|United States(US)|Los Angeles|
+65.98.65.93|test|password123|United States(US)|Secaucus|
+45.40.183.127|mindy|mindy|United States(US)|Scottsdale|
+204.0.52.38|admin|admin|United States(US)|Englewood|
+98.181.99.214|admin|admin|United States(US)|El Paso|
+139.60.78.237|system|OkwKcECs8qJP2Z|United States(US)|Wheeler|
+64.13.248.131|thehemingways|admin|United States(US)|Culver City|
+64.66.218.138|admin|admin|United States(US)|Anaheim|
+38.127.89.3|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+8.41.207.65|arun|password|United States(US)|Pennsauken|
+204.0.52.193|admin|admin|United States(US)|Englewood|
+38.86.160.131|support|support|United States(US)|San Fernando|
+184.176.166.10|admin|admin|United States(US)|Scottsdale|
+72.210.252.148|admin|admin|United States(US)|Taylor|
+65.128.152.62|support|support|United States(US)|Minneapolis|
+72.210.252.150|admin|admin|United States(US)|Taylor|
+216.144.230.238|service|service42|United States(US)|Los Angeles|
+108.170.108.158|mailman|mailman|United States(US)|Fairfield|
+184.182.240.34|support|support|United States(US)|Scottsdale|
+8.41.200.1|arun|password|United States(US)|Warrington|
+66.118.196.225|service|service42|United States(US)|Durango|
+65.98.64.120|test|password123|United States(US)|Secaucus|
+184.103.18.64|support|support|United States(US)|Sun City West|
+166.142.176.44|sshd||United States(US)|Atlanta|
+97.116.122.183|support|support|United States(US)|Saint Paul|
+208.84.63.81|service|service42|United States(US)|Holyoke|
+45.53.85.0|support|support|United States(US)|Wilmington|
+64.95.166.1|arun|password|United States(US)|Woodstock|
+204.0.52.168|admin|admin|United States(US)|Englewood|
+98.161.151.175|admin|admin|United States(US)|El Paso|
+184.103.231.176|support|support|United States(US)|Chandler|
+172.76.52.45|support|support|United States(US)|Sturgeon Lake|
+208.102.143.192|root|@#$%^&*!()|United States(US)|Cincinnati|
+50.105.75.225|support|support|United States(US)|Rives Junction|
+65.98.64.98|test|password123|United States(US)|Secaucus|
+98.181.99.207|admin|admin|United States(US)|El Paso|
+65.98.65.70|test|password123|United States(US)|Secaucus|
+50.54.102.188|support|support|United States(US)|Lynchburg|
+166.130.0.100|admin|qwerty|United States(US)|Atlanta|
+50.244.244.209|bill|bill|United States(US)|Annville|
+108.189.207.45|service|service42|United States(US)|Saint Cloud|
+75.149.53.51|installer|installer|United States(US)|Soquel|
+104.240.224.36|support|support|United States(US)|Fort Defiance|
+65.98.64.97|test|password123|United States(US)|Secaucus|
+45.40.183.195|mindy|mindy|United States(US)|Scottsdale|
+75.169.136.70|support|support|United States(US)|Salt Lake City|
+98.161.151.170|admin|admin|United States(US)|El Paso|
+8.41.205.1|arun|password|United States(US)|Harrison|
+155.254.9.106|system|OkwKcECs8qJP2Z|United States(US)|Cardwell|
+104.236.84.77|daemon|123456|United States(US)|Clifton|
+208.180.249.57|service|service42|United States(US)|San Angelo|
+98.161.151.169|admin|admin|United States(US)|El Paso|
+108.190.223.115|admin|admin|United States(US)|Tampa|
+63.155.134.23|support|support|United States(US)|Eugene|
+216.21.161.185|service|service42|United States(US)|Provo|
+50.126.229.247|support|support|United States(US)|Wellston|
+65.98.57.147|test|password123|United States(US)|Secaucus|
+24.245.92.5|system|OkwKcECs8qJP2Z|United States(US)|Sherman|
+184.182.240.101|support|support|United States(US)|Scottsdale|
+50.127.86.114|admin|1234|United States(US)|Valparaiso|
+174.17.120.174|support|support|United States(US)|Gilbert|
+136.228.129.27|ubnt|ubnt|United States(US)|Nashua|
+216.144.225.10|admin|admin|United States(US)|Los Angeles|
+38.127.89.52|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+24.151.30.154|support|support|United States(US)|Trumbull|
+66.220.240.201|support|support|United States(US)|Killington|
+67.158.153.117|support|support|United States(US)|Perry|
+23.30.71.85|root|@#$%^&*!()|United States(US)|Houston|
+216.144.233.114|admin|admin|United States(US)|Los Angeles|
+66.161.201.239|root|@#$%^&*!()|United States(US)|Cincinnati|
+184.168.27.125|mindy|mindy|United States(US)|Scottsdale|
+72.223.168.78|admin|admin|United States(US)|Taylor|
+198.207.222.10|otto|otto|United States(US)|Tulsa|
+216.144.238.6|service|service42|United States(US)|South Pasadena|
+96.72.238.122|admin|admin|United States(US)|Indianapolis|
+98.161.151.184|admin|admin|United States(US)|El Paso|
+70.61.246.11|guestuser|guestuser|United States(US)|Salt Lake City|
+216.67.243.99|test|password123|United States(US)|Secaucus|
+174.26.187.162|support|support|United States(US)|Apache Junction|
+192.182.106.145|support|support|United States(US)|Arbuckle|
+38.127.90.25|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+205.179.122.190|root|@#$%^&*!|United States(US)|Lafayette|
+205.201.204.65|service|service42|United States(US)|Durango|
+66.118.202.129|service|service42|United States(US)|Durango|
+108.160.196.130|service|service42|United States(US)|Chicago|
+13.77.152.94|test|test|United States(US)|Redmond|
+74.2.217.143|root|12345|United States(US)|Los Angeles|
+50.108.230.21|support|support|United States(US)|Hammondsport|
+38.127.89.2|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+72.178.214.84|admin|admin|United States(US)|Taylor|
+50.38.119.245|support|support|United States(US)|Mill City|
+72.223.168.76|admin|admin|United States(US)|Taylor|
+70.166.38.79|ubnt|ubnt|United States(US)|Herndon|
+71.218.42.54|support|support|United States(US)|Denver|
+24.180.199.85|service|service42|United States(US)|Traverse City|
+208.190.91.208|admin|default|United States(US)|San Angelo|
+216.163.99.74|support|support|United States(US)|Lacrosse|
+98.161.151.172|admin|admin|United States(US)|El Paso|
+65.98.74.78|test|password123|United States(US)|Secaucus|
+13.77.163.87|RPM|RPM|United States(US)|Redmond|
+98.161.151.188|admin|admin|United States(US)|El Paso|
+204.0.52.174|admin|admin|United States(US)|Englewood|
+184.182.240.125|support|support|United States(US)|Scottsdale|
+50.122.210.2|support|support|United States(US)|Rochester|
+24.247.182.219|admin|chart3rmdu|United States(US)|Holland|
+134.49.235.215|admin|0l0ctyQh243O63uD|United States(US)|Pullman|
+70.100.24.29|support|support|United States(US)|Lake Havasu City|
+206.125.90.187|support|support|United States(US)|Tidewater|
+162.155.178.74|service|service42|United States(US)|Enon|
+38.127.88.7|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+174.105.232.193|admin|chart3rmdu|United States(US)|Chillicothe|
+65.98.74.88|test|password123|United States(US)|Secaucus|
+73.229.124.26|admin|guest|United States(US)|Denver|
+155.94.197.6|support|support|United States(US)|Los Angeles|
+174.44.58.151|admin|1234|United States(US)|Sagaponack|
+166.130.77.227|eclipse|eclipse|United States(US)|Atlanta|
+70.39.21.245|manager|friend|United States(US)|Zearing|
+52.144.32.193|root|root|United States(US)|Grand Rapids|
+24.247.187.188|PlcmSpIp|PlcmSpIp|United States(US)|Grand Haven|
+96.87.184.101|service|service42|United States(US)|Memphis|
+166.168.31.204|admin|root|United States(US)|Atlanta|
+65.98.65.75|test|password123|United States(US)|Secaucus|
+107.17.221.245|admin|password|United States(US)|White Plains|
+45.40.183.116|mindy|mindy|United States(US)|Scottsdale|
+35.196.149.164|nagios|nagios|United States(US)|Boardman|
+173.239.90.227|admin|default|United States(US)|Mesquite|
+98.161.151.162|admin|admin|United States(US)|El Paso|
+98.181.99.212|admin|admin|United States(US)|El Paso|
+184.168.27.148|mindy|mindy|United States(US)|Scottsdale|
+205.201.194.129|service|service42|United States(US)|Placerville|
+45.40.182.4|mindy|mindy|United States(US)|Scottsdale|
+107.181.162.105|ftptest|test123|United States(US)|Atlanta|
+172.87.163.42|ubnt|ubnt|United States(US)|Arlington|
+173.219.18.18|root|@#$%^&*!()|United States(US)|Sulphur Springs|
+173.0.108.133|admin|sp00kyjean418|United States(US)|Heathsville|
+50.76.60.82|admin|pfsense|United States(US)|Scottsdale|
+38.127.89.33|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+139.60.77.103|system|OkwKcECs8qJP2Z|United States(US)|Pampa|
+166.161.32.68|guest|guest|United States(US)|Atlanta|
+50.45.46.174|support|support|United States(US)|West Frankfort|
+166.130.176.216|admin|root|United States(US)|Atlanta|
+74.2.113.194|service|service42|United States(US)|Fairfield|
+108.226.176.209|admin|default|United States(US)|Houston|
+50.246.120.125|system|OkwKcECs8qJP2Z|United States(US)|Washington|
+98.161.151.176|admin|admin|United States(US)|El Paso|
+174.26.113.99|support|support|United States(US)|Goodyear|
+97.116.79.225|ubnt|ubnt|United States(US)|Minneapolis|
+66.154.125.38|support|support|United States(US)|Los Angeles|
+50.123.145.240|support|support|United States(US)|Myrtle Beach|
+65.98.64.123|test|password123|United States(US)|Secaucus|
+204.0.52.101|admin|admin|United States(US)|Englewood|
+65.131.177.13|support|support|United States(US)|Sheldon|
+50.107.161.12|support|support|United States(US)|Dallas|
+75.167.165.232|support|support|United States(US)|Boise|
+174.76.35.9|admin|admin|United States(US)|Sagaponack|
+45.53.201.135|support|support|United States(US)|Wilmington|
+75.147.213.105|record|record|United States(US)|Jackson|
+67.185.155.51|root|@#$%^&*!()|United States(US)|Bremerton|
+99.65.106.170|root|root|United States(US)|Pompano Beach|
+162.243.218.29|user1|user1|United States(US)|New York|
+74.37.70.104|support|support|United States(US)|Eagle River|
+50.236.46.179|root|@#$%^&*!()|United States(US)|Clovis|
+184.176.166.11|admin|admin|United States(US)|Scottsdale|
+216.144.231.78|super|super1234|United States(US)|South Pasadena|
+205.179.29.193|root|@#$%^&*!()|United States(US)|San Francisco|
+216.163.88.11|support|support|United States(US)|Monrovia|
+74.211.87.73|support|support|United States(US)|Ruidoso|
+151.204.230.220|admin|admin|United States(US)|Boston|
+24.245.81.42|system|OkwKcECs8qJP2Z|United States(US)|Sherman|
+24.249.199.26|support|support|United States(US)|Destin|
+184.182.240.21|support|support|United States(US)|Scottsdale|
+216.144.224.142|super|super1234|United States(US)|Los Angeles|
+104.235.112.207|support|support|United States(US)|Belvidere|
+66.118.206.225|service|service42|United States(US)|Durango|
+67.161.46.161|ubnt|ubnt|United States(US)|San Jose|
+73.141.47.152|ftpuser|ftpuser|United States(US)|Norwood|
+209.165.165.210|admin|pfsense|United States(US)|Anchorage|
+64.251.170.6|edi|edi|United States(US)|Colome|
+98.161.151.183|admin|admin|United States(US)|El Paso|
+70.166.38.83|admin|admin|United States(US)|Herndon|
+184.182.240.12|support|support|United States(US)|Scottsdale|
+166.161.61.69|guest|guest|United States(US)|Atlanta|
+104.192.201.89|service|service42|United States(US)|Saint George|
+69.193.184.2|ubnt|ubnt|United States(US)|New York|
+8.41.206.161|arun|password|United States(US)|Pennsauken|
+45.40.182.206|mindy|mindy|United States(US)|Scottsdale|
+192.161.223.47|service|service42|United States(US)|Piggott|
+96.84.254.98|root|default|United States(US)|Englewood|
+199.227.126.250|service|service42|United States(US)|New Orleans|
+69.6.168.175|root|Deadstar!#%|United States(US)|Lubbock|
+72.223.168.73|admin|admin|United States(US)|Taylor|
+104.237.226.47|admin|123456|United States(US)|Wilmington|
+38.127.89.74|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+204.0.52.166|admin|admin|United States(US)|Englewood|
+67.208.111.72|support|support|United States(US)|Camas|
+162.17.77.169|m|m|United States(US)|Huntsville|
+216.24.251.3|admin|1234|United States(US)|Canyon Country|
+98.29.251.250|support|support|United States(US)|Greenville|
+45.40.183.228|mindy|mindy|United States(US)|Scottsdale|
+72.223.168.81|admin|admin|United States(US)|Taylor|
+184.159.131.159|ubnt|ubnt|United States(US)|Russellville|
+184.12.139.164|support|support|United States(US)|Elk Grove|
+184.182.240.37|admin|default|United States(US)|Scottsdale|
+24.247.182.193|admin|chart3rmdu|United States(US)|Holland|
+70.166.38.74|admin|admin|United States(US)|Herndon|
+8.41.196.53|arun|password|United States(US)|Colmar|
+216.67.243.114|test|password123|United States(US)|Secaucus|
+38.127.90.23|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+216.144.235.206|service|service42|United States(US)|South Pasadena|
+45.40.182.225|mindy|mindy|United States(US)|Scottsdale|
+98.161.151.173|admin|admin|United States(US)|El Paso|
+184.168.27.104|mindy|mindy|United States(US)|Scottsdale|
+66.229.195.249|admin|admin|United States(US)|Pompano Beach|
+75.74.151.224|RPM|RPM|United States(US)|Miami|
+50.109.82.49|support|support|United States(US)|Effingham|
+184.182.240.138|support|support|United States(US)|Scottsdale|
+174.26.70.181|support|support|United States(US)|Peoria|
+38.127.89.6|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+184.101.83.61|support|support|United States(US)|Maricopa|
+66.220.244.133|support|support|United States(US)|Bridgewater Corners|
+38.127.90.24|ahccadmin|y1w4ll4H|United States(US)|Seattle|
+173.197.20.86|root|@#$%^&*!()|United States(US)|Shawnee|
+24.123.40.237|root|root|United States(US)|Akron|
+206.169.3.1|root|@#$%^&*!()|United States(US)|San Francisco|
+97.125.254.151|support|support|United States(US)|Ankeny|
+209.251.95.106|admin|default|United States(US)|Itasca|
+173.85.200.24|support|support|United States(US)|Sacramento|
